@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "image": "Gallery_Images/Kraken.jpeg",
+        "title": "Kraken",
+        "operating_years": "2021-Present",
+        "length": "TBD",
+        "beam": "TBD",
+        "crew_size": "Single Pilot, (4) Support Divers",
+        "propulsion_class": "Single Propeller, Driveshaft",
+        "entered_in": "ISR 17, June 2023",
+        "awards": "N/A",
+        "top_speed": "1.8 Knots",
+        "faculty_advisor": "Dr. Christine M. Ikeda",
+        "description": "Starting in the Fall of 2021, reasearch and early design concepts for Kraken were conducted, with physical work and prototyping beginning late in the Fall of 2021. The submarine was built with speed in mind and used lessons learned from previous submarines and teams to improve systems and processes increasing design and build efficiency. With construction of the submarine and system finishing in the Fall of 2022, testing began in earnest and the submarine systems were refined and redesigned as needed leading up to competition. Competing in ISR 17, there were high hopes for Kraken to cross the finish line fast and thus it did. Though challenges arose at competition, Kraken was able to cross the finish line and earn a place of 5th in the competition and 3rd in its catergory that year. After a great showing at ISR 17, Kraken now serves as a learning submarine for new team members and a test bed for new systems."
+    },
+    {
+        "id": 2,
+        "image": "Gallery_Images/Nautilus_2.png",
+        "title": "Nautilus",
+        "operating_years": "2019-2023",
+        "length": "~9ft 4in",
+        "beam": "~1ft 8in",
+        "crew_size": "Single Pilot, (2) Support Divers",
+        "propulsion_class": "Single Propeller, Chain Drive",
+        "entered_in": "vISR 16, June 2021\nISR 17, June 2023",
+        "awards": "vISR 16\n-First for Thrust Production Report\n-Second for Controls and Maneuverability Report\n-Second for Operational Problem Solving Challenge",
+        "top_speed": "0.6 Knots",
+        "faculty_advisor": "Dr. Christine M. Ikeda",
+        "description": "Starting in the Spring of 2019, reasearch and early design concepts for Nautilus were conducted, with physical work and prototyping beginning late in the Fall of 2019. Progress on constructing and testing Nautilus was severely hampered throughout 2020 due to the COVID-19 pandemic, however, design and planning which could be done online was largely completed during this time. As a result, in the Spring of 2021, the team was able focus on physically building Nautilus and the various internal systems. Due to the inability to conduct estensive pool-testings of Nautilus, some small issues found during its minimal time in the water are still being worked out, however, she would have been able to take part in ISR 16 had it been held in person. ISR 16 was held in a virtual format in June of 2021 due to concerns over COVID-19. Thus, vISR 16 focused on design reports and a virtual problem solving challenge vice the typical drag-race style event held in the David Taylor Model Basin. All design reports submitted, and solutions given during the virtual problem solving challenge were based on the systems in Nautilus. The team won several awards from vISR 16 and hoped to race the submarine in person at ISR 17 in 2023. At ISR 17 in 2023 the submarine was able to complete runs and crossed the finish line to cap off the great history of Nautlius as a Human Powered Submarine."
+    },
+    {
+        "id": 3,
+        "image": "Gallery_Images/TRIDENT.jpg",
+        "title": "Trident",
+        "operating_years": "2017-2021",
+        "length": "~9ft 4in",
+        "beam": "~2ft 0in",
+        "crew_size": "Single Pilot, (2) Support Divers",
+        "propulsion_class": "Single Propeller, Rotational Drive-Train",
+        "entered_in": "ISR 15, June 2019",
+        "awards": "Second Honorable Mention for Innovation",
+        "top_speed": "3.29 Knots",
+        "faculty_advisor": "Dr. Christine M. Ikeda",
+        "description": "Following the disappointment that accompanied Phantom 8 at ISR 14 with all of its mechanical failures, Trident was intended to change the tide of the HPS team at Virginia Tech for the better. Using the stripped hull from Phantom 7, everything in Trident was designed and built from scratch. Moving away from the linear-drive system that had become a staple in each of the recent Phantom class subs, Trident returned to the standard rotational drive system. Having learned from other issues encountered with Phantom 8, Trident used hydraulic controls and a single rotating propeller. All of these changes were made with the goal of being a top sub at ISR 15, and thus it was. Trident remains in possession of the HPS team and is a reminder of the success that the HPS team can achieve."
+    },
+    {
+        "id": 4,
+        "image": "Gallery_Images/phantom8.jpg",
+        "title": "Phantom 8",
+        "operating_years": "2015-2019",
+        "length": "~10ft 0in",
+        "beam": "~2ft 0in",
+        "crew_size": "Single Pilot, (2) Support Divers",
+        "propulsion_class": "Counter-Rotating Prop, Linear Drive-Train",
+        "entered_in": "ISR 14 & 15\nJune 2017 and June 2019",
+        "awards": "N/A",
+        "top_speed": "1.09 Knots",
+        "faculty_advisor": "Dr. Wayne L. Neu and Dr. Christine M. Ikeda",
+        "description": "The final Phantom class submarine, Phantom 8 was intended to take the developments of Phantom 7 and carry them through to the finish line. Such developments included the implementation of the linear gearbox with the addition of a counter-rotating propeller system. Furthermore, the electronics developed for both P6 and P7 were to be carried forward as the central brain unit for an autonomous control system. Unfortunately, mechanical problems and other failures in various systems on Phantom 8 hampered its participation at ISR 14. Phantom 8 continued to suffer mechanical failures for the remainder of its service life which ended during ISR 15 after it managed to crawl across the finish line. Having been decommissioned, Phantom 8 now sits in the show-room window of the Ware Lab."
+    }
+
+]
