@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import galleryInfos from '../Assets/GalleryInfos.json'
-import { v4 as uuidv4 } from 'uuid';
-import Card from "../Components/GalleryCard"
+import galleryInfos from '../Assets/GalleryInfos.json';
+import Card from "../Components/GalleryCard";
 
 /**
  * Creates the Gallery page which contains a series of gallery cards that are created from

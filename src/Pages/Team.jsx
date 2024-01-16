@@ -1,5 +1,5 @@
 import React, { useState, useEffect} from "react";
-import TeamCard from "../Components/TeamCard"
+import TeamCard from "../Components/TeamCard";
 import axios from "axios";
 
 /**
@@ -40,18 +40,6 @@ const Team = () => {
         }
     };
 
-    // State for the modals
-    const [showFirstModal, setShowFirstModal] = useState(false);
-    const [showSecondModal, setShowSecondModal] = useState(false);
-
-    // Functions to handle opening and closing the first modal
-    const handleFirstModalShow = () => setShowFirstModal(true);
-    const handleFirstModalClose = () => setShowFirstModal(false);
-
-    // Functions to handle opening and closing the second modal
-    const handleSecondModalShow = () => setShowSecondModal(true);
-    const handleSecondModalClose = () => setShowSecondModal(false);
-
     return (
         <div className="main_page_container">
             <h1 className="page_title">Our Team Members</h1>
@@ -83,7 +71,7 @@ const Team = () => {
                             </div>
                         );
                     }
-                    
+                    return "";
                 })
             }
             </div>

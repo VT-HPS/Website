@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 /**
  * Creates a copyright tag that is always displayed at the foot
  * of the page.
