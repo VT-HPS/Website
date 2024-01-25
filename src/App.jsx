@@ -11,27 +11,12 @@ import Team from './Pages/Team.jsx';
 import Topbar from './Components/Topbar';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CopyrightTag from "./Components/CopyrightTag";
-import logo from './Assets/hps_logo1.png';
-import { Link } from 'react-router-dom';
 
 const App = () => {
 
   return (
     <div>
       <BrowserRouter>
-      <div className="header-container">
-        <div className="logo-container">
-          <Link to="/" className="logo-link">
-            <img src={logo} alt="Logo" className="logo" />
-          </Link>
-        </div>
-        <div className="title-container">
-          <Link to="/" className="title-link">
-            <h1 className="website-title">Human Powered Submarine Team at Virginia Tech</h1>
-          </Link>
-        </div>
-        <div></div> {/* Empty right cell */}
-        </div>
         <div>
           <Topbar/>
         </div>

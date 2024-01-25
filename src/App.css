@@ -6,7 +6,6 @@
   padding: 0;
   text-decoration: none;
   box-sizing: border-box;
-  transition: 0.5s;
 }
 
 body,
@@ -41,10 +40,8 @@ html {
 }
 
 .link {
-  width: 100%;
-  height: 70px;
-  margin: 0%;
   display: flex;
+  padding: 5px 25px;
   color: white;
   align-items: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -75,26 +72,116 @@ html {
 /* 
 * topbar css 
 */
+.topbar_header {
+	position: relative;
+}
+
 .topbar_container {
-  width:  100%;
-  margin-top: 0;
-  position: relative;
-  height: 5%;
-  align-items: center;
+	margin: auto;
 }
 
 .topbar {
   outline-style: blank;
   border-radius: .5%; /* Less rounded corners */
-  padding: .1% .1%; /* Reduced padding */
   display: flex;
+  flex-wrap: wrap;
   align-items: center; /* Centers the items vertically */
+  justify-content: space-between;
   text-align: center;
   position: relative;
-  width: calc(100% - 30px);
   background-color: #861F41;
 }
 
+.nav {
+  height: 100px;
+}
+
+#nav-check{
+  position: absolute;
+	opacity:0;
+	pointer-events: none;
+}
+
+.nav-toggler{
+	height: 34px;
+	width: 44px;
+	background-color: #ffffff;
+	border-radius: 4px;
+	cursor: pointer;
+	display: none;
+	align-items: center;
+	justify-content: center;
+	margin-right: 15px;
+}
+.nav-toggler span{
+	display: block;
+	height: 2px;
+	width: 20px;
+	background-color: #861F41;
+	position: relative;
+}
+.nav-toggler span::before,
+.nav-toggler span::after{
+   content: '';
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   background-color: #861F41;
+   left:0;
+}
+.nav-toggler span::before{
+	top: -6px;
+}
+.nav-toggler span::after{
+	top: 6px;
+}
+
+@media(max-width: 991px) {
+  .nav-toggler{
+    display: flex;
+  }
+  .nav {
+    position: absolute;
+    left:0;
+    top:100%;
+    width: 100%;
+    background-color: var(--color-1);
+    border-top: 1px solid rgba(255,255,255,0.2);
+    opacity:0;
+    visibility: hidden;
+  }
+  .link {
+    width: 100%;
+  }
+  .link_text {
+    display: block;
+    margin:0;
+  }
+
+  #nav-check:checked ~ .nav{
+    opacity: 1;
+    visibility: visible;
+    z-index: 1;
+  }
+
+  #nav-check:focus ~ .nav-toggler{
+    box-shadow: 0 0 15px #000000;
+  }
+
+  #nav-check:checked ~ .nav-toggler span{
+    background-color: transparent;
+  }
+
+  #nav-check:checked ~ .nav-toggler span::before{
+    top:0;
+    transform: rotate(45deg);
+  }
+
+  #nav-check:checked ~ .nav-toggler span::after{
+    top:0;
+    transform: rotate(-45deg);
+  }
+}
 
 /**
 * Submit button css
@@ -378,7 +465,7 @@ html {
 }
 
 .logo {
-  max-width: 100%; /* Make the logo expand to fill the container */
+  max-height: 100px; /* Make the logo expand to fill the container */
   height: auto; /* Maintain aspect ratio */
 }
 
