@@ -1,6 +1,6 @@
-import React, { useState, useEffect} from "react";
+import React, { useState, useEffect } from "react";
+import memberInfos from '../Assets/MemberInfo.json';
 import TeamCard from "../Components/TeamCard";
-import axios from "axios";
 
 /**
  * Creates the team page which contains a grid of Team Card components that display
@@ -8,72 +8,112 @@ import axios from "axios";
  * from a mongo database. 
  */
 const Team = () => {
-    const [teamList, setTeam] = useState([]);
-    const [sortMethod, setSortMethod] = useState('lastNameAsc');
+    var [teamList, setTeam] = useState([]);
+    var [sortMethod, setSortMethod] = useState('year-asc');
+    var yearDict = {
+        "Senior": 1,
+        "Junior": 2,
+        "Sophomore": 3,
+        "Freshman": 4
+    }
 
-
+    /**
+     * Maps all the gallery cards from the json file
+     */
     useEffect(() => {
-        axios.get('http://localhost:5000/api/team')
-            .then((response) => {
-                setTeam(response.data);
-            })
-            .catch((error) => {
-                console.log(error);
-            });
+        const loadedTeam = memberInfos.map(team => ({
+            ...team,
+            image: `${process.env.PUBLIC_URL}/${team.image}`
+        }));
+        setTeam(loadedTeam);
     }, []);
 
+    /**
+     * Calls the sortGallery method and sorts based off the provided
+     * sort method
+     */
     useEffect(() => {
-        const sortedData = sortTeam([...teamList]);
-        setTeam(sortedData);
+        sortTeam();
     }, [sortMethod]);
 
-    const sortTeam = (data) => {
-        switch (sortMethod) {
-            case 'lastNameAsc':
-                return data.sort((a, b) => a.lastName.localeCompare(b.lastName));
-            case 'lastNameDesc':
-                return data.sort((a, b) => b.lastName.localeCompare(a.lastName));
-            case 'major':
-                return data.sort((a, b) => a.major.localeCompare(b.major));
-            default:
-                return data;
-        }
+    /**
+     * Sorts the gallery based on name or date
+     */
+    const sortTeam = () => {
+        setTeam((prevTeamList) => {
+            const sortedTeam = [...prevTeamList];
+            switch (sortMethod) {
+                case 'name-asc': // Name A-Z
+                    sortedTeam.sort((a, b) => a.name.localeCompare(b.name));
+                    break;
+                case 'name-desc': // Name Z-A
+                    sortedTeam.sort((a, b) => b.name.localeCompare(a.name));
+                    break;
+                case 'year-asc': // Date Oldest-Newest
+                    sortedTeam.sort((a, b) => yearDict[a.year] - yearDict[b.year]);
+                    break;
+                case 'year-desc': // Date Newest-Oldest
+                    sortedTeam.sort((a, b) => yearDict[b.year] - yearDict[a.year]);
+                    break;
+                default:
+                    break;
+            }
+            return sortedTeam;
+        });
     };
 
     return (
         <div className="main_page_container">
-            <h1 className="page_title">Our Team Members</h1>
-                 
+            <h1 className="page_title">Officers</h1>
+
+            {/* Dropdown for sorting */}
             <div>
                 <label>Sort by: </label>
                 <select onChange={(e) => setSortMethod(e.target.value)} value={sortMethod}>
-                    <option value="lastNameAsc">Last Name (A-Z)</option>
-                    <option value="lastNameDesc">Last Name (Z-A)</option>
-                    <option value="major">Major</option>
+                    <option value="year-asc">Date (Oldest-Newest)</option>
+                    <option value="year-desc">Date (Newest-Oldest)</option>
+                    <option value="name-asc">Name (A-Z)</option>
+                    <option value="name-desc">Name (Z-A)</option>
                 </select>
             </div>
-
             <div className="team_grid">
-            {
-                teamList.map((team) => {
-                    if(team.existingMember === true)
-                    {
-                        return (
-                            <div key={team.id}>
-                                <TeamCard
-                                    id={team.id}
-                                    firstName={team.firstName}
-                                    lastName={team.lastName}
-                                    email={team.email}
-                                    imagePath={team.imagePath}
-                                    major={team.major}
-                                />
-                            </div>
-                        );
-                    }
-                    return "";
-                })
-            }
+                {
+                    teamList.map((team) => {
+                        if (team.office == "Officer") {
+                            return (
+                                <div key={team.id}>
+                                    <TeamCard
+                                        id={team.id}
+                                        name={team.name}
+                                        image={team.image}
+                                        position={team.position}
+                                        year={team.year}
+                                    />
+                                </div>
+                            );
+                        }
+                    })
+                }
+            </div>
+            <h1 className="page_title">Lead Engineers</h1>
+            <div className="team_grid">
+                {
+                    teamList.map((team) => {
+                        if (team.office == "LE") {
+                            return (
+                                <div key={team.id}>
+                                    <TeamCard
+                                        id={team.id}
+                                        name={team.name}
+                                        image={team.image}
+                                        position={team.position}
+                                        year={team.year}
+                                    />
+                                </div>
+                            );
+                        }
+                    })
+                }
             </div>
         </div>
     )

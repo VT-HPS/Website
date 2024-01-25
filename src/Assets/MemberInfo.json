@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "image": "./Team_Leadership_Images/ArmisteadMaryClaire.jpg",
+        "name": "Mary Claire Armistead",
+        "position": "Head of Design",
+        "year": "Senior",
+        "office": "LE"
+    },
+    {
+        "id": 2,
+        "image": "./Team_Leadership_Images/DunnMike.jpg",
+        "name": "Mike Dunn",
+        "position": "Hydro Co-Lead Engineer",
+        "year": "Senior",
+        "office": "LE"
+    },
+    {
+        "id": 3,
+        "image": "./Team_Leadership_Images/GrahamSyenna.jpg",
+        "name": "Syenna Graham",
+        "position": "Vice President",
+        "year": "Senior",
+        "office": "Officer"
+    },
+    {
+        "id": 4,
+        "image": "./Team_Leadership_Images/HyltonLuke.jpg",
+        "name": "Luke Hylton",
+        "position": "Electronics Lead Engineer",
+        "year": "Senior",
+        "office": "LE"
+    },
+    {
+        "id": 5,
+        "image": "./Team_Leadership_Images/JohnstonCara.jpg",
+        "name": "Cara Johnston",
+        "position": "Event Coordinator",
+        "year": "Junior",
+        "office": "Officer"
+    },
+    {
+        "id": 6,
+        "image": "./Team_Leadership_Images/KeenanBen.jpg",
+        "name": "Ben Keenan",
+        "position": "Structures Lead Engineer",
+        "year": "Junior",
+        "office": "LE"
+    },
+    {
+        "id": 7,
+        "image": "./Team_Leadership_Images/KoniersBen.jpg",
+        "name": "Ben Koniers",
+        "position": "Controls Lead Engineer",
+        "year": "Senior",
+        "office": "LE"
+    },
+    {
+        "id": 8,
+        "image": "./Team_Leadership_Images/QuiramNicole.jpg",
+        "name": "Nicole Quiram",
+        "position": "Sponsor Relations",
+        "year": "Sophomore",
+        "office": "Officer"
+    },
+    {
+        "id": 9,
+        "image": "./Team_Leadership_Images/Salazar-JaraDiego.jpg",
+        "name": "Diego Salazar-Jara",
+        "position": "Treasurer",
+        "year": "Junior",
+        "office": "Officer"
+    },
+    {
+        "id": 10,
+        "image": "./Team_Leadership_Images/WilckenConnor.jpg",
+        "name": "Connor Wilcken",
+        "position": "Hydro Co-Lead Engineer",
+        "year": "Senior",
+        "office": "LE"
+    },
+    {
+        "id": 11,
+        "image": "./Team_Leadership_Images/WottowaMax.jpg",
+        "name": "Max Wottowa",
+        "position": "President",
+        "year": "Senior",
+        "office": "Officer"
+    }
+]

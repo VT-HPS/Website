@@ -272,9 +272,8 @@ html {
 }
 
 #team_image {
-  height: 120px;
-  width: 200px;
-  margin-right: 20px;
+  width: 100%;
+  height: auto;
   border-radius: 10px;
   object-fit: contain; /* This will ensure the image maintains its aspect ratio */
   object-position: center; /* This will center the image in the container */
@@ -283,6 +282,21 @@ html {
 .team_card_container {
   padding: 15px;
   text-align: center;
+}
+
+.team_name {
+  font-size: 1em;
+  margin: 0;
+}
+
+.team_position {
+  font-size: 1em;
+  margin: 0;
+}
+
+.team_year {
+  font-size: 1em;
+  margin: 0;
 }
 
 /* 

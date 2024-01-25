@@ -4,22 +4,21 @@ import React from "react";
  * Creates a team member card to be displayed on the team page. 
  * The card contains an image of the team member, their first and last name, and their major.
  */
-function Team(props) {
-    const imagePath = require("../Assets/teamMembers/" + props.lastName + props.firstName + ".jpg")
+function TeamCard(props) {
     return (
         <div className="team_container">
+            <img src={props.image} alt="Team" id="team_image" />
             <div className="team_card_container">
-                <div>
-                    <img src={imagePath} alt="Team" id="team_image" />
-                </div>
-                <h2 className="team_title">{props.firstName + " " + props.lastName}</h2>
-                <p className="team_description">{props.major}</p>
+                 <h2 className="team_name">{props.name}</h2>
+                 <p className="team_position">{props.position}</p>
+                 <p className="team_year">{props.year}</p>
             </div>
             <div >
-                {props.removeTeam}
+                {props.removeGallery}
             </div>
         </div>
     )
 }
 
-export default Team
+
+export default TeamCard;

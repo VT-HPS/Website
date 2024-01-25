@@ -37,13 +37,13 @@ const App = () => {
         </div>
         <div style={{ display: 'flex' }}></div>
         <Routes> {/* Paths from root to different pages */}
-          <Route path="/" element={<Home />} /> { }
-          <Route path="/faq" element={<FAQ/>} />
-          <Route path="/history" element={<History/>} />
+          <Route path="/" element={<Home />}/> { }
+          <Route path="/faq" element={<FAQ/>}/>
+          <Route path="/history" element={<History/>}/>
           <Route path="/sponsors" element={<Sponsors/>} />
-          <Route path="/membership" element={<Membership />} />
-          <Route path="/team" element={<Team />} />
-          <Route path="/gallery" element={<Gallery />} />
+          <Route path="/membership" element={<Membership/>} />
+          <Route path="/team" element={<Team/>} />
+          <Route path="/gallery" element={<Gallery/>} />
         </Routes>
         <CopyrightTag />
       </BrowserRouter>

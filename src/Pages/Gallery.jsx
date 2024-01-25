@@ -79,7 +79,6 @@ const Gallery = () => {
                                 id={gallery.id}
                                 title={gallery.title}
                                 year={gallery.year}
-                                description={gallery.description}
                                 image={gallery.image}
                             />
                         </div>

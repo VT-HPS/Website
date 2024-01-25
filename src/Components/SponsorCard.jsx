@@ -8,7 +8,6 @@ import React from "react";
 function Sponsor(props) {
     return (
         <div className="sponsor_container">
-            
             <a href={props.link} target="_blank" rel="noopener noreferrer">
                 <img src={props.image} alt="Sponsor" id="sponsor_image" />
             </a>
