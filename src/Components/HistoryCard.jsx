@@ -14,16 +14,16 @@ function History(props) {
             </div>
             <div>
                 <h1 className="history_stat" style={{fontSize: '30px'}}>{props.title}</h1>
-                <p className="history_stat">{"Operating Years: " + props.operating_years}</p>
-                <p className="history_stat">{"Length: " + props.length}</p>
-                <p className="history_stat">{"Beam: " + props.beam}</p>
-                <p className="history_stat">{"Crew Size " + props.crew_size}</p>
-                <p className="history_stat">{"Propulsion Class: " + props.propulsion_class}</p>
-                <p className="history_stat">{"Entered In: " + props.entered_in}</p>
-                <p className="history_stat">{"Awards: " + props.awards}</p>
-                <p className="history_stat">{"Top Speed: " + props.top_speed}</p>
-                <p className="history_stat">{"Faculty Advisor: " + props.faculty_advisor}</p>
-                <p className="history_description">{"Description: " + props.description}</p>
+                <p className="history_stat"><b>Operating Years: </b>{props.operating_years}</p>
+                <p className="history_stat"><b>Length: </b>{props.length}</p>
+                <p className="history_stat"><b>Beam: </b>{props.beam}</p>
+                <p className="history_stat"><b>Crew Size: </b>{props.crew_size}</p>
+                <p className="history_stat"><b>Propulsion Class: </b>{props.propulsion_class}</p>
+                <p className="history_stat"><b>Entered In: </b>{props.entered_in}</p>
+                <p className="history_stat"><b>Awards: </b>{props.awards}</p>
+                <p className="history_stat"><b>Top Speed: </b>{props.top_speed}</p>
+                <p className="history_stat"><b>Faculty Advisor: </b>{props.faculty_advisor}</p>
+                <p className="history_stat"><b>Description: </b>{props.description}</p>
             </div>
         </div>
     )

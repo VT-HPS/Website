@@ -12,7 +12,7 @@ function Sponsor(props) {
                 <img src={props.image} alt="Sponsor" id="sponsor_image" />
             </a>
             <div className="sponsor_card_container">
-                <h1 className="sponsor_title" style={{ fontSize: "14px" }}>{props.title}</h1>
+                <h1 className="sponsor_title">{props.title}</h1>
             </div>
         </div>
     )
