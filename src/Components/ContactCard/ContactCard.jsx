@@ -4,6 +4,7 @@ import Row from 'react-bootstrap/Row';
 import Container from 'react-bootstrap/Container';
 import Form from 'react-bootstrap/Form';
 import axios from "axios";
+import './ContactCard.css';
 
 /**
  * Creates a contact card component that is used within the membership page. 
@@ -109,9 +110,9 @@ const handleSubmit = (e) => {
                 </div>    
             ) : (
             <Form onSubmit={handleSubmit}> 
-                <Container className="contact_form_container" >
+                <Container className="contactcard_form_container" >
                     <div>
-                        <h2 className="contact_title">Contact Info</h2>
+                        <h2 className="contactcard_title">Contact Info</h2>
                     </div>
                     <Row className="mb-3">
                         <Col> <h6>First Name</h6>
@@ -119,7 +120,7 @@ const handleSubmit = (e) => {
                                 type="text"
                                 id = "firstName"
                                 value={contactInfo.firstName}
-                                className="contact_info_form_short_box"
+                                className="contactcard_info_form_short_box"
                                 onChange={handleChange}
                                 required //field is required
                             />
@@ -129,7 +130,7 @@ const handleSubmit = (e) => {
                                 type="text"
                                 id = "lastName"
                                 value={contactInfo.lastName}
-                                className="contact_info_form_short_box"
+                                className="contactcard_info_form_short_box"
                                 onChange={handleChange}
                                 required //field is required
                             />
@@ -142,7 +143,7 @@ const handleSubmit = (e) => {
                                 type="text"
                                 id = "email"
                                 value={contactInfo.email}
-                                className="contact_info_form_short_box"
+                                className="contactcard_info_form_short_box"
                                 onChange={handleChange}
                                 required //field is required
                             />
@@ -155,7 +156,7 @@ const handleSubmit = (e) => {
                                 type="tel"
                                 id = "phoneNumber"
                                 value={contactInfo.phoneNumber}
-                                className="contact_info_form_short_box"
+                                className="contactcard_info_form_short_box"
                                 onChange={handleChange}
                                 required //field is required
                             />
@@ -166,7 +167,7 @@ const handleSubmit = (e) => {
                             <select // Input box for changing lastName
                                 id = "year"
                                 value={contactInfo.gradYear}
-                                className="contact_info_form_short_box"
+                                className="contactcard_info_form_short_box"
                                 onChange={handleDropdownChange}
                                 required //field is required
                             >
@@ -183,7 +184,7 @@ const handleSubmit = (e) => {
                             type="text"
                             id = "major"
                             value={contactInfo.major}
-                            className="contact_info_form_short_box"
+                            className="contactcard_info_form_short_box"
                             onChange={handleChange}
                             required //field is required
                             />
@@ -195,7 +196,7 @@ const handleSubmit = (e) => {
                             <textarea // Input box for changing lastName
                                 id = "interests"
                                 value={contactInfo.interests}
-                                className="contact_info_form_large_box"
+                                className="contactcard_info_form_large_box"
                                 onChange={handleChange}
                                 required //field is required
                             />
@@ -203,7 +204,7 @@ const handleSubmit = (e) => {
                     </Row>
                     <Row>
                         <Col className="d-flex justify-content-center">
-                            <button className = "contact_submit_button" type = "submit">Submit Contact Info  </button>
+                            <button className = "contactcard_submit_button" type = "submit">Submit Contact Info  </button>
                         </Col>
                     </Row>
                 </Container>
