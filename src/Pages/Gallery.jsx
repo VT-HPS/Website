@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import galleryInfos from '../Assets/GalleryInfos.json';
+import galleryInfos from "../Assets/Gallery.json";
 import Card from "../Components/GalleryCard";
 
 /**

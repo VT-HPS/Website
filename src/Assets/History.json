@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "Sub_Images/Kraken.jpeg",
+        "image": "./Sub_Images/Kraken.jpeg",
         "title": "Kraken",
         "operating_years": "2021-Present",
         "length": "TBD",
@@ -16,7 +16,7 @@
     },
     {
         "id": 2,
-        "image": "Sub_Images/Nautilus.png",
+        "image": "./Sub_Images/Nautilus.png",
         "title": "Nautilus",
         "operating_years": "2019-2023",
         "length": "~9ft 4in",
@@ -31,7 +31,7 @@
     },
     {
         "id": 3,
-        "image": "Sub_Images/Trident.jpg",
+        "image": "./Sub_Images/Trident.jpg",
         "title": "Trident",
         "operating_years": "2017-2021",
         "length": "~9ft 4in",
@@ -46,7 +46,7 @@
     },
     {
         "id": 4,
-        "image": "Sub_Images/Phantom8.jpg",
+        "image": "./Sub_Images/Phantom8.jpg",
         "title": "Phantom 8",
         "operating_years": "2015-2019",
         "length": "~10ft 0in",
@@ -61,7 +61,7 @@
     },
     {
         "id": 5,
-        "image": "Sub_Images/Phantom7.jpg",
+        "image": "./Sub_Images/Phantom7.jpg",
         "title": "Phantom 7",
         "operating_years": "2014-2015",
         "length": "9ft 4in",
@@ -76,7 +76,7 @@
     },
     {
         "id": 6,
-        "image": "Sub_Images/Phantom6.jpg",
+        "image": "./Sub_Images/Phantom6.jpg",
         "title": "Phantom 6",
         "operating_years": "2007-2015",
         "length": "11ft 2in",
@@ -91,7 +91,7 @@
     },
     {
         "id": 7,
-        "image": "Sub_Images/Phantom5.jpg",
+        "image": "./Sub_Images/Phantom5.jpg",
         "title": "Phantom 5",
         "operating_years": "2003-2011",
         "length": "9ft 1in",
@@ -106,7 +106,7 @@
     },
     {
         "id": 8,
-        "image": "Sub_Images/Specter1.jpg",
+        "image": "./Sub_Images/Specter1.jpg",
         "title": "Specter 1",
         "operating_years": "2001-2003",
         "length": "8ft 6in",
@@ -121,7 +121,7 @@
     },
     {
         "id": 9,
-        "image": "Sub_Images/Phantom4.png",
+        "image": "./Sub_Images/Phantom4.png",
         "title": "Phantom 4",
         "operating_years": "2001-2003",
         "length": "8ft 8in",
@@ -136,7 +136,7 @@
     },
     {
         "id": 10,
-        "image": "Sub_Images/Phantom3.jpg",
+        "image": "./Sub_Images/Phantom3.jpg",
         "title": "Phantom 3",
         "operating_years": "1999-2001",
         "length": "N/A",
@@ -151,7 +151,7 @@
     },
     {
         "id": 11,
-        "image": "Sub_Images/Phantom2.jpg",
+        "image": "./Sub_Images/Phantom2.jpg",
         "title": "Phantom 2",
         "operating_years": "1995-1998",
         "length": "N/A",
@@ -166,7 +166,7 @@
     },
     {
         "id": 12,
-        "image": "Sub_Images/Phantom1.jpg",
+        "image": "./Sub_Images/Phantom1.jpg",
         "title": "Phantom 1",
         "operating_years": "1991-1993",
         "length": "N/A",

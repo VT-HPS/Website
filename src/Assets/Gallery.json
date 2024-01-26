@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image": "./Gallery_Images/Full_Team_Photo.jpg",
+        "title": "Full Team Photo",
+        "year": "2017"
+    },
+    {
+        "id": 2,
+        "image": "./Gallery_Images/Installing_Ecan.jpg",
+        "title": "Installing Ecan",
+        "year": "2018"
+    },
+    {
+        "id": 3,
+        "image": "./Gallery_Images/Kraken_Under_Tent.jpg",
+        "title": "Kraken Under Tent",
+        "year": "2020"
+    },
+    {
+        "id": 4,
+        "image": "./Gallery_Images/Nautalis_Under_Tent.jpg",
+        "title": "Nautalis Under Tent",
+        "year": "2021"
+    },
+    {
+        "id": 5,
+        "image": "./Gallery_Images/Nautalis_With_VT_Flag.jpg",
+        "title": "Nautalis with VT Flag",
+        "year": "2022"
+    },
+    {
+        "id": 6,
+        "image": "./Gallery_Images/Sub_Ballisting.jpg",
+        "title": "Sub Ballisting",
+        "year": "1986"
+    }
+]
