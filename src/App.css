@@ -551,14 +551,3 @@ html {
   height: 100%;
   text-align: center;
 }
-
-
-/* Footer css */
-.footer {
-  background-color: #75787b;
-  color: white;
-  padding: 10px;
-  text-align: left;
-  margin-bottom: 0;
-  position: relative;
-}
