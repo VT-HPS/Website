@@ -7,7 +7,7 @@ function DisplayCopyrightTag() {
     return (
         <footer className="footer">
                 <div class="text-left px-5">
-                    <small>Copyright &copy; 2023 HPS at Virginia Tech | hps@vt.edu</small>
+                    <small>Copyright &copy; 2024 HPS at Virginia Tech | hps@vt.edu</small>
                 </div>
         </footer>
     )
