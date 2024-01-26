@@ -1,4 +1,5 @@
 import React from "react";
+import "./SponsorCard.css";
 
 /**
  * Creates the sponsor card that is displayed on the sponsors page. 
@@ -7,12 +8,12 @@ import React from "react";
 
 function Sponsor(props) {
     return (
-        <div className="sponsor_container">
+        <div className="sponsorcard_container">
             <a href={props.link} target="_blank" rel="noopener noreferrer">
-                <img src={props.image} alt="Sponsor" id="sponsor_image" />
+                <img src={props.image} alt="Sponsor" className="sponsorcard_image" />
             </a>
-            <div className="sponsor_card_container">
-                <h1 className="sponsor_title">{props.title}</h1>
+            <div className="sponsorcard_title_container">
+                <h1 className="sponsorcard_title">{props.title}</h1>
             </div>
         </div>
     )
