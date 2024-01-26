@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react"
-import HistoryCard from "../Components/HistoryCard"
+import HistoryCard from "../Components/HistoryCard/HistoryCard"
 import history_infos from "../Assets/History.json"
 
 /**

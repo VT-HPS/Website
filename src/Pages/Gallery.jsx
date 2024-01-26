@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import galleryInfos from "../Assets/Gallery.json";
-import Card from "../Components/GalleryCard";
+import Card from "../Components/GalleryCard/GalleryCard";
 
 /**
  * Creates the Gallery page which contains a series of gallery cards that are created from

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import sponsorInfos from '../Assets/sponsor_infos.json'
-import Sponsor from "../Components/SponsorCard"
+import Sponsor from "../Components/SponsorCard/SponsorCard"
 
 /**
  * Creates the sponsors page which displays a grid of SponsorCard components, which is simply

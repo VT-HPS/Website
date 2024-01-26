@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import memberInfos from '../Assets/MemberInfo.json';
-import TeamCard from "../Components/TeamCard";
+import TeamCard from "../Components/TeamCard/TeamCard";
 
 /**
  * Creates the team page which contains a grid of Team Card components that display

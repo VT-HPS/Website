@@ -1,5 +1,5 @@
 import React from "react";
-import RotatingImages from "../Components/RotatingImages";
+import RotatingImages from "../Components/RotatingImages/RotatingImages";
 /**
  * Creates the home page for the website. The home page consists of basic text and a rotating
  * images carousel. 

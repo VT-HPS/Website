@@ -1,5 +1,5 @@
 import React from "react";
-import ContactCard from "../Components/ContactCard";
+import ContactCard from "../Components/ContactCard/ContactCard";
 import Stack from 'react-bootstrap/Stack';
 
 /**

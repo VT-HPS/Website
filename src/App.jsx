@@ -8,9 +8,9 @@ import History from './Pages/History.jsx';
 import Sponsors from './Pages/Sponsors.jsx';
 import Gallery from './Pages/Gallery.jsx'
 import Team from './Pages/Team.jsx';
-import Topbar from './Components/Topbar';
+import Topbar from './Components/Topbar/Topbar.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CopyrightTag from "./Components/CopyrightTag";
+import CopyrightTag from "./Components/CopyrightTag/CopyrightTag.jsx";
 
 const App = () => {
 

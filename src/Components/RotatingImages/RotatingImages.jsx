@@ -1,6 +1,6 @@
 import Carousel from 'react-bootstrap/Carousel';
 import React, { useState, useEffect } from "react";
-import rotateImageList from '../Assets/Rotating_Image.json';
+import rotateImageList from '../../Assets/Rotating_Image.json';
 
 /**
  * This function builds a componet that is a rotating image screen that draws images from the "Rotating_Image.json" file and then
