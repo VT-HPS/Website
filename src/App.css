@@ -373,34 +373,6 @@ html {
   align-items:center;
 }
 
-.history_container {
-  display: grid;
-  grid-template-columns: 2fr 1fr;
-  gap: 20px;
-  padding: 20px;
-  border-radius: 20px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-  margin: 10px;
-}
-
-.history_left_column {
-  display: flex;
-  flex-direction: column;
-}
-
-.history_image {
-  max-width: 100%;
-  height: auto;
-  border-radius: 10px;
-  object-fit: cover;
-  margin-bottom: 10px;
-}
-
-.history_stat {
-  margin-bottom: 10px;
-  font-size: 14px;
-}
-
 /*
 * Handle size of image in modal
 */
