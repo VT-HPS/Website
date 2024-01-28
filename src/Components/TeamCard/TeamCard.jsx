@@ -1,4 +1,5 @@
 import React from "react";
+import "./TeamCard.css";
 
 /**
  * Creates a team member card to be displayed on the team page. 
@@ -6,12 +7,12 @@ import React from "react";
  */
 function TeamCard(props) {
     return (
-        <div className="team_container">
-            <img src={props.image} alt="Team" id="team_image" />
-            <div className="team_card_container">
-                 <h2 className="team_name">{props.name}</h2>
-                 <p className="team_position">{props.position}</p>
-                 <p className="team_year">{props.year}</p>
+        <div className="teamcard_container">
+            <img src={props.image} alt="Team" className="teamcard_image" />
+            <div className="teamcard_info_container">
+                 <h2 className="teamcard_name">{props.name}</h2>
+                 <p className="teamcard_position">{props.position}</p>
+                 <p className="teamcard_year">{props.year}</p>
             </div>
             <div >
                 {props.removeGallery}

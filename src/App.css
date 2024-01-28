@@ -288,45 +288,6 @@ html {
   align-items: center;
 }
 
-.team_container {
-  outline-style: blank;
-  border-radius: 20px;
-  padding: 15px 15px 15px 15px;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  overflow: hidden;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
-}
-
-#team_image {
-  width: 100%;
-  height: auto;
-  border-radius: 10px;
-  object-fit: contain; /* This will ensure the image maintains its aspect ratio */
-  object-position: center; /* This will center the image in the container */
-}
-
-.team_card_container {
-  padding: 15px;
-  text-align: center;
-}
-
-.team_name {
-  font-size: 1em;
-  margin: 0;
-}
-
-.team_position {
-  font-size: 1em;
-  margin: 0;
-}
-
-.team_year {
-  font-size: 1em;
-  margin: 0;
-}
-
 /* 
 * History css
 */
