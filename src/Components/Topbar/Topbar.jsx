@@ -2,6 +2,7 @@ import { NavLink } from 'react-router-dom';
 import 'react-notifications/lib/notifications.css';
 import logo from '../../Assets/hps_logo1.png';
 import { Link } from 'react-router-dom';
+import "./Topbar.css";
 
 /**
  * Creates the top bar that is displayed at the top of every page.
@@ -20,12 +21,12 @@ const Topbar = ({children}) => {
         { path: '/faq', name: 'FAQ'}
     ];
     return (
-        <header class="topbar_header">
-            <div className="topbar_container">
+        <header class="topbar-header">
+            <div className="topbar-container">
                 <div className="topbar">
-                    <div className="logo">
+                    <div className="topbar-logo">
                         <Link to="/" className="logo-link">
-                            <img src={logo} alt="Logo" className="logo" />
+                            <img src={logo} alt="Logo" className="topbar-logo" />
                         </Link>
                     </div>
                     <input type="checkbox" id="nav-check"></input>
@@ -36,13 +37,13 @@ const Topbar = ({children}) => {
                     {
                         menuItem.map(item => (
                             <NavLink to={item.path} className="link" key={item.path}>
-                                <div className="link_text">{item.name}</div>
+                                <div className="link-text">{item.name}</div>
                             </NavLink>
                         ))
                     }
                     </nav>
                 </div>
-                <main className="main_container">{children}</main>
+                <main className="main-container">{children}</main>
             </div>
         </header>
     );
