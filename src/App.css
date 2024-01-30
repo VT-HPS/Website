@@ -226,6 +226,14 @@ html {
   /* add size  */
 }
 
+.home_centered_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+}
+
 /* Membership page css */
 
 .membership_main_container {
@@ -255,8 +263,7 @@ html {
   
 }
 
-.centered_text {
-  display: flex;
+.membership_centered_text {
   justify-content: center;
   align-items: center;
   height: 100%;

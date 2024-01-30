@@ -20,9 +20,9 @@ import './ContactCard.css';
  */
 const ContactCard = () => {
     // This needs to be updated to noreplyvthps@gmail.com's account
-    const emailService = "hps_contact_service"
-    const emailTemplate = "hps_contact_form"
-    const emailPubKey = "A-bfzMnIjPCSesPQ8"
+    const membershipEmailService = "hps_contact_service"
+    const membershipEmailTemplate = "hps_contact_form"
+    const membershipEmailPubKey = "A-bfzMnIjPCSesPQ8"
 
 
     const [contactInfo, setContactInfo] = useState({
@@ -75,7 +75,7 @@ const ContactCard = () => {
             // make form submission
             setContactInfo({ ...contactInfo, submitted: true }); //say that the form is submitted
             console.log({ ...contactInfo })
-            emailjs.sendForm(emailService, emailTemplate, form.current, emailPubKey) 
+            emailjs.sendForm(membershipEmailService, membershipEmailTemplate, form.current, membershipEmailPubKey) 
                 .then((result) => {
                     console.log(result.text);
                 }, (error) => {
