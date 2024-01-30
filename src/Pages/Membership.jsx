@@ -29,7 +29,6 @@ const Membership = () => {
                 <ContactCard />
             </div>
         </div>
-        
     );
 }
 

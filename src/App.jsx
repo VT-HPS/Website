@@ -8,6 +8,7 @@ import History from './Pages/History.jsx';
 import Sponsors from './Pages/Sponsors.jsx';
 import Gallery from './Pages/Gallery.jsx'
 import Team from './Pages/Team.jsx';
+import SponsorRegistration from './Pages/SponsorsRegistration.jsx';
 import Topbar from './Components/Topbar/Topbar.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import CopyrightTag from "./Components/CopyrightTag/CopyrightTag.jsx";
@@ -29,6 +30,7 @@ const App = () => {
           <Route path="/membership" element={<Membership/>} />
           <Route path="/team" element={<Team/>} />
           <Route path="/gallery" element={<Gallery/>} />
+          <Route path="/become_a_sponsor" element={<SponsorRegistration/>} />
         </Routes>
         <CopyrightTag />
       </BrowserRouter>
