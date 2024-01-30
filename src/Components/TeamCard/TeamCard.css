@@ -5,8 +5,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
   overflow: hidden;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+  width: 400px;
+  height: 500px;
+  margin: 20px;
 }
 
 .teamcard_image {
