@@ -231,7 +231,7 @@ html {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  flex-wrap: wrap;
   
 }
 
@@ -242,6 +242,7 @@ html {
   padding: 15px 15px 15px 15px;
   justify-content: center;
   align-items: center;
+  min-width: 400px;
 }
 
 .membership_right {
