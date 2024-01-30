@@ -20,7 +20,6 @@
 
 .topbar {
   outline-style: blank;
-  border-radius: .5%; /* Less rounded corners */
   display: flex;
   flex-wrap: wrap;
   align-items: center; /* Centers the items vertically */

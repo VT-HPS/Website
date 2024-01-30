@@ -12,7 +12,6 @@ import "./Topbar.css";
 
 const Topbar = ({children}) => {
     const menuItem = [
-        { path: '/', name: 'Home'},
         { path: '/team', name: 'Team'},
         { path: '/history', name: 'History'},
         { path: '/sponsors', name: 'Sponsors'},
