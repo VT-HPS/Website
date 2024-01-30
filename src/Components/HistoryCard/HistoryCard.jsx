@@ -10,7 +10,7 @@ import "./HistoryCard.css";
 function History(props) {
     return (
         <div className="historycard_container">
-            <div classname="historycard_left_column">
+            <div className="historycard_image_container">
                 <img className="historycard_image" src={props.image} alt="History" id="history_image"/>
             </div>
             <div>

@@ -8,9 +8,9 @@
   margin: 10px;
 }
 
-.historycard_left_column {
+.historycard_image_container {
   display: flex;
-  flex-direction: column;
+  align-items: center;
 }
 
 .historycard_image {
@@ -24,4 +24,11 @@
 .historycard_stat {
   margin-bottom: 10px;
   font-size: 14px;
+}
+
+@media(max-width: 1260px) {
+  .historycard_container {
+    grid-template-columns: 1fr;
+    margin: 0px;
+  }
 }
