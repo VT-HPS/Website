@@ -88,36 +88,9 @@ html {
 * Sponsorship page css
 */
 .sponsor_grid {
-  display:grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
-  padding: 20px;
-  justify-content: center;
-  align-items: center;
-}
-
-.sponsor_buttons_container {
   display: flex;
-  justify-content: center; /* Center the buttons horizontally */
-  align-items: center; /* Center the buttons vertically, if the container has a defined height */
-  /* padding: 5px; Add some padding around the container */
-}
-
-.sponsor_button {
-  background-color: #861F41; /* Maroon background color */
-  color: white; /* Light color for the text to make it visible on maroon background */
-  border: none;
-  padding: 10px 20px; /* Adjust padding to control the size of the buttons */
-  margin: 0 5%; /* Add some margin between the buttons */
-  border-radius: 5px; /* Rounded corners for the button */
-  cursor: pointer; /* Change cursor to pointer when hovering over the button */
-  text-align: center; /* Ensure text is centered within the button */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: adds a subtle shadow for depth */
-  transition: background-color 0.2s; /* Smooth transition for hover effect */
-}
-
-.sponsor_button:hover {
-  background-color: #720F2C; /* A darker shade of maroon for the hover state */
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 /**
