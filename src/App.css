@@ -72,14 +72,12 @@ html {
 * main container
 */
 .main_page_container {
-  overflow-y: auto;
   padding-top: 0px;
   outline-style: blank;
   outline-color: #E5751F;
   border-radius: 20px;
   padding: 10px 10px;
   margin: 15px 15px 15px 15px;
-  overflow-y: scroll;
   flex: 1;
   flex-direction: column;
 }
