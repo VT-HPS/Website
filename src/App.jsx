@@ -11,7 +11,7 @@ import Team from './Pages/Team.jsx';
 import SponsorRegistration from './Pages/SponsorsRegistration.jsx';
 import Topbar from './Components/Topbar/Topbar.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CopyrightTag from "./Components/CopyrightTag/CopyrightTag.jsx";
+import PageFooter from './Components/FooterCard/FooterCard.jsx';
 
 const App = () => {
 
@@ -32,7 +32,7 @@ const App = () => {
           <Route path="/gallery" element={<Gallery/>} />
           <Route path="/become_a_sponsor" element={<SponsorRegistration/>} />
         </Routes>
-        <CopyrightTag />
+        <PageFooter />
       </BrowserRouter>
     </div>
   );

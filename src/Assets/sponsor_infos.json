@@ -58,5 +58,11 @@
     "image": "./Sponsor_Logos/Ingersoll_Rand.png",
     "title": "Ingersoll Rand",
     "link": "https://www.ingersollrand.com/en-us/"
+  },
+  {
+    "id": 11,
+    "image": "./Sponsor_Logos/CollisonPlus.jpg",
+    "title": "Collison Plus",
+    "link": "https://www.collisionplusva.com/"
   }
 ]

@@ -1,6 +1,6 @@
 import { NavLink } from 'react-router-dom';
 import 'react-notifications/lib/notifications.css';
-import logo from '../../Assets/hps_logo1.png';
+import logo from '../../Assets/hps_orange_logo.png';
 import { Link } from 'react-router-dom';
 import "./Topbar.css";
 
