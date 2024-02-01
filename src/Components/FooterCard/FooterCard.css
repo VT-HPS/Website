@@ -1,3 +1,5 @@
+/* FooterStyles.css */
+
 .footer-container {
   border-radius: 0;
   background-color: var(--vt-maroon); /* Change this to your maroon color */
@@ -10,7 +12,7 @@
 
 .footer-logo {
   height: auto;
-  max-width: 25%;
+  max-width: 20%;
   padding-top: 10px;
 }
 
@@ -30,6 +32,7 @@
   color: white;
   padding-left: 1rem;
   padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .footer-line-container {
@@ -42,11 +45,43 @@
   color: white;
   text-decoration: none;
   font-size: 1.5rem;
-  margin-right: 1.5rem;
-  padding-bottom: 10px;
+  margin-right: 0.5rem;
+  padding-bottom: 1rem;
 }
 
 .social-icon-container {
   display: flex;
 }
 
+/* Media Queries for Mobile Screens */
+@media (max-width: 767px) {
+  .footer-logo {
+    max-width: 50%; /* Adjust the max-width for smaller screens */
+  }
+
+  .footer-links {
+    flex-direction: column; /* Stack links vertically on small screens */
+    align-items: center;
+  }
+
+  .footer-links a {
+    margin-right: 0; /* Remove right margin for better spacing */
+    margin-bottom: 0.5rem;
+    font-size: 1.25rem;
+  }
+
+  .footer-copyright {
+    text-align: center; /* Center copyright text on small screens */
+  }
+
+  .footer-line-container {
+    flex-direction: column; /* Stack content vertically on small screens */
+    align-items: center;
+  }
+
+  .social-icon {
+    margin-left: 0.1;
+    margin-right: 0.1;
+    margin-bottom: 0.5rem;
+  }
+}
