@@ -2,6 +2,7 @@
   "name": "personal_portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://www.hps.aoe.vt.edu/",
   "dependencies": {
     "@emailjs/browser": "^3.12.1",
     "@testing-library/jest-dom": "^5.17.0",
@@ -18,6 +19,7 @@
     "react-bootstrap": "^2.8.0",
     "react-bootstrap-buttons": "^1.0.0",
     "react-dom": "^18.2.0",
+    "react-faq-component": "^1.3.4",
     "react-google-recaptcha": "^3.1.0",
     "react-icons": "^4.11.0",
     "react-notifications": "^1.7.4",

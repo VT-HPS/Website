@@ -10,7 +10,6 @@ function GalleryCard(props) {
         <div className="gallerycard_container">
             <img src={props.image} alt="Gallery" className="gallerycard_image" />
             <div className="gallerycard_caption_container">
-                <h1 className="gallerycard_title">{props.title}</h1>
                 <p classname="gallerycard_description">{props.year}</p>
             </div>
             <div >

@@ -9,7 +9,7 @@ import Card from "../Components/GalleryCard/GalleryCard";
  */
 const Gallery = () => {
     var [galleryList, setGallerys] = useState([]);
-    var [sortMethod, setSortMethod] = useState('year-desc');
+    var [sortMethod, setSortMethod] = useState('year-asc');
 
     /**
      * Maps all the gallery cards from the json file
@@ -21,40 +21,30 @@ const Gallery = () => {
         }));
         setGallerys(loadedGallerys);
     }, []);
-    
-    /**
-     * Calls the sortGallery method and sorts based off the provided
-     * sort method
-     */
-    useEffect(() => {
-        sortGallery();
-    }, [sortMethod]);
 
     /**
-     * Sorts the gallery based on name or date
+     * Sorts the gallery based on date using the method sent to it
      */
-    const sortGallery = () => {
+    useEffect(() => {
         setGallerys((prevGalleryList) => {
             const sortedGallery = [...prevGalleryList];
             switch (sortMethod) {
-                case 'name-asc': // Name A-Z
-                    sortedGallery.sort((a, b) => a.title.localeCompare(b.title));
+                case 'year-desc': // Date Oldest-Newest
+                    sortedGallery.sort((a, b) => (a.year * 365 - b.year * 365) + (a.month * 30 - b.month * 30) + (a.day - b.day));
                     break;
-                case 'name-desc': // Name Z-A
-                    sortedGallery.sort((a, b) => b.title.localeCompare(a.title));
-                    break;
-                case 'year-asc': // Date Oldest-Newest
-                    sortedGallery.sort((a, b) => a.year - b.year);
-                    break;
-                case 'year-desc': // Date Newest-Oldest
-                    sortedGallery.sort((a, b) => b.year - a.year);
+                case 'year-asc': // Date Newest-Oldest
+                    sortedGallery.sort((a, b) => (b.year * 365 - a.year * 365) + (b.month * 30 - a.month * 30) + (b.day - a.day));
                     break;
                 default:
                     break;
             }
             return sortedGallery;
         });
-    };
+    }, [sortMethod]);
+
+    /**
+     * Sorts the gallery based on name or date
+     */
 
     return (
         <div className="main_page_container">
@@ -64,27 +54,24 @@ const Gallery = () => {
             <div>
                 <label>Sort by: </label>
                 <select onChange={(e) => setSortMethod(e.target.value)} value={sortMethod}>
-                    <option value="year-asc">Date (Oldest-Newest)</option>
-                    <option value="year-desc">Date (Newest-Oldest)</option>
-                    <option value="name-asc">Name (A-Z)</option>
-                    <option value="name-desc">Name (Z-A)</option>
+                    <option value="year-asc">Date (Newest-Oldest)</option>
+                    <option value="year-desc">Date (Oldest-Newest)</option>
                 </select>
             </div>
             <div className="gallery_grid">
-            {
-                galleryList.map((gallery) => {
-                    return (
-                        <div key={gallery.id}>
-                            <Card
-                                id={gallery.id}
-                                title={gallery.title}
-                                year={gallery.year}
-                                image={gallery.image}
-                            />
-                        </div>
-                    );
-                })
-            }
+                {
+                    galleryList.map((gallery) => {
+                        return (
+                            <div key={gallery.id}>
+                                <Card
+                                    id={gallery.id}
+                                    year={gallery.year}
+                                    image={gallery.image}
+                                />
+                            </div>
+                        );
+                    })
+                }
             </div>
         </div>
     )

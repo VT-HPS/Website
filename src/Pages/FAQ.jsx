@@ -1,30 +1,60 @@
-import React from "react";
-import questions from "../Faq.json";
-import Banner from "../Banner";
+import React, { useEffect, useState } from "react";
+import Faq from "react-faq-component";
 
-/**
- * Creates the FAQ page, which contains several expandable "questions" that correspond with answers.
- * The questions and answers are stored in a json file called "Faq.json" for easy editability. 
- */
 const FAQ = () => {
+    const data = {
+        title: "FAQ (How it works)",
+        rows: [
+            {
+                title:
+                    "Lorem ipsum dolor sit amet, Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat",
+                content: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sed tempor sem. Aenean vel turpis feugiat,
+                ultricies metus at, consequat velit. Curabitur est nibh, varius in tellus nec, mattis pulvinar metus.
+                In maximus cursus lorem, nec laoreet velit eleifend vel. Ut aliquet mauris tortor, sed egestas libero interdum vitae.
+                Fusce sed commodo purus, at tempus turpis.`,
+            },
+            {
+                title: "Nunc maximus, magna at ultricies elementum",
+                content:
+                    "Nunc maximus, magna at ultricies elementum, risus turpis vulputate quam, vitae convallis ex tortor sed dolor.",
+            },
+            {
+                title: "Can I use html as content",
+                content: `Yes, here is an example of a <a href="https://binodswain.github.io/react-faq-component/">link</a>`,
+            },
+            {
+                title: "What is the package version",
+                content: "v1.0.0",
+            },
+        ],
+    };
+
     return (
+
         <div className="main_page_container">
-            <h1>
-                <Banner>
-                    <Banner.Header>Frequently Asked Questions</Banner.Header>
-                    {questions.map((question) => (
-                        <Banner.Entity key={question.id}>
-                            <Banner.Question>{question.question}</Banner.Question>
-                            <Banner.Text>{question.answer}</Banner.Text>
-                        </Banner.Entity>
-                    ))}
-                    <h4>
-                        Question not on the list? Contact our team at hps@vt.edu
-                    </h4>
-                </Banner>
+            <h1 className="page_title">
+                <div>Frequently Asked Questions</div>
             </h1>
+            <div className="faq-style-wrapper">
+                <Faq data={data} />
+            </div>
         </div>
-    )
+    );
 }
 
 export default FAQ;
