@@ -222,6 +222,17 @@ html {
 /* 
 * home
 */
+.home-container {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-image: url("./Assets/home.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
 .home-header {
   padding-top: 20px;
   padding-left: 20px;
@@ -243,6 +254,74 @@ html {
   align-items: center;
   height: 100%;
   text-align: center;
+}
+
+.home-top-container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  text-align: center;
+  color: var(--vt-white);
+  background-color: var(--vt-grey);
+  border-bottom: 10px solid var(--vt-maroon);
+}
+
+.home-top-image {
+  width: 100%;
+  opacity: 0.25;
+}
+
+.home-top-text {
+  position: absolute;
+  font-size: 4em;
+  max-width: 100%;
+  color: black;
+}
+
+@media(max-width: 830px) {
+  .home-top-image {
+    object-fit: cover;
+    width: auto;
+    height: 200px;
+    max-width: 100%;
+  }
+
+  .home-top-text {
+    font-size: 2em;
+  }
+}
+
+.home-image-info-container {
+  width: 75%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  background-color: var(--vt-hokieStone);
+  margin: 50px 50px;
+  padding: 25px 25px;
+  border-radius: 50px;
+}
+
+.home-image-half {
+  border-radius: 10px;
+  object-fit: contain;
+  object-position: center;
+  max-width: 500px;
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+.home-info-half-container {
+  width: 500px;
+  display: flex;
+  align-items: center;
+}
+
+.home-info-half {
+  color: var(--vt-white);
+  font-size: large;
 }
 
 /* Membership page css */
