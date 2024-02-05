@@ -410,14 +410,13 @@ html {
 }
 
 .faq-style-wrapper .faq-body .faq-row .row-title {
-  font-size: larger;
+  font-size: large;
   color: grey;
 }
 
 .faq-style-wrapper .faq-body .faq-row .row-content-text {
   padding: 2em !important;
-  font-size: medium !important;
-  color: black !important;
+  font-size: Large !important;
 }
 
 /* Additional styles for a clean layout */

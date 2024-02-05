@@ -25,43 +25,43 @@ const Team = () => {
         <div className="main_page_container">
             <h1 className="page_title">Officers</h1>
             <div className="team_grid">
-                {
-                    teamList.map((team) => {
-                        if (team.office === "Officer") {
-                            return (
-                                <div key={team.id}>
-                                    <TeamCard
-                                        id={team.id}
-                                        name={team.name}
-                                        image={team.image}
-                                        position={team.position}
-                                        year={team.year}
-                                    />
-                                </div>
-                            );
-                        }
-                    })
-                }
+                {/* These warning ignore labels are becuase there is no else statement within the if 
+                structure and there does not need to be or the team page does not show correctly*/}
+                {/* eslint-disable-next-line*/}
+                {teamList.map((team) => {
+                    if (team.office === "Officer") {
+                        return (
+                            <div key={team.id}>
+                                <TeamCard
+                                    id={team.id}
+                                    name={team.name}
+                                    image={team.image}
+                                    position={team.position}
+                                    year={team.year}
+                                />
+                            </div>
+                        );
+                    }
+                })}
             </div>
             <h1 className="page_title">Lead Engineers</h1>
             <div className="team_grid">
-                {
-                    teamList.map((team) => {
-                        if (team.office === "LE") {
-                            return (
-                                <div key={team.id}>
-                                    <TeamCard
-                                        id={team.id}
-                                        name={team.name}
-                                        image={team.image}
-                                        position={team.position}
-                                        year={team.year}
-                                    />
-                                </div>
-                            );
-                        }
-                    })
-                }
+                {/* eslint-disable-next-line*/}
+                {teamList.map((team) => {
+                    if (team.office === "LE") {
+                        return (
+                            <div key={team.id}>
+                                <TeamCard
+                                    id={team.id}
+                                    name={team.name}
+                                    image={team.image}
+                                    position={team.position}
+                                    year={team.year}
+                                />
+                            </div>
+                        );
+                    }
+                })}
             </div>
         </div>
     )
@@ -111,7 +111,7 @@ export default Team;
 //     });
 // };
 
-{/* Dropdown for sorting
+/* Dropdown for sorting
 <div>
     <label>Sort by: </label>
     <select onChange={(e) => setSortMethod(e.target.value)} value={sortMethod}>
@@ -120,4 +120,4 @@ export default Team;
         <option value="name-asc">Name (A-Z)</option>
         <option value="name-desc">Name (Z-A)</option>
     </select>
-</div> */}
+</div> */

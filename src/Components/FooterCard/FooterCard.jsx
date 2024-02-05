@@ -30,14 +30,15 @@ const PageFooter = () => {
                     <p className="footer-copyright">
                         &copy; <a className="text-white" href="/">2024 HPS at Virginia Tech</a> | hps@vt.edu
                     </p>
+                    {/* The hrefs were added in this container to the social icons for true anchors and to get rid of warnings*/}
                     <div className="social-icon-container">
-                        <a className="social-icon">
+                        <a className="social-icon" href="https://www.instagram.com/vthps/">
                             <SocialIcon network="instagram" url="https://www.instagram.com/vthps/"/>
                         </a>
-                        <a className="social-icon">
-                            <SocialIcon network="linkedin" url="https://www.linkedin.com/company/human-powered-submarine-at-virginia-tech/about/" />
+                        <a className="social-icon" href="https://www.linkedin.com/company/human-powered-submarine-at-virginia-tech/about/">
+                            <SocialIcon network="linkedin" url="https://www.linkedin.com/company/human-powered-submarine-at-virginia-tech/about/"/>
                         </a>
-                        <a className="social-icon">
+                        <a className="social-icon" href="https://github.com/VT-HPS">
                             <SocialIcon network="github" url="https://github.com/VT-HPS" />
                         </a>
                     </div>

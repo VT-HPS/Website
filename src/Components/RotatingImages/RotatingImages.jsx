@@ -33,7 +33,7 @@ function HomeCarousel() {
             <img
               className="d-block w-100 h=50"
               src={slide.image}
-              alt="slider image"
+              alt="slider"
             />
             <Carousel.Caption>
               <h3>{slide.caption}</h3>

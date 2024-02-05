@@ -36,7 +36,7 @@ const SponsorContactCard = () => {
     });
 
     const form = useRef();
-    const captchaRef = useRef();
+    const captchaRef = useRef(null);
 
     /**
      * When the sponsor contact card fields are typed into / changed, the 

@@ -1,4 +1,3 @@
-import React, { useState, useEffect } from "react";
 import Stack from 'react-bootstrap/Stack';
 import SponsorContactCard from "../Components/SponsorContactCard/SponsorContactCard";
 

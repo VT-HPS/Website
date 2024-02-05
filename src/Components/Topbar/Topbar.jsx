@@ -20,7 +20,7 @@ const Topbar = ({children}) => {
         { path: '/faq', name: 'FAQ'}
     ];
     return (
-        <header class="topbar-header">
+        <header className="topbar-header">
             <div className="topbar-container">
                 <div className="topbar">
                     <div className="topbar-logo">
@@ -29,10 +29,10 @@ const Topbar = ({children}) => {
                         </Link>
                     </div>
                     <input type="checkbox" id="nav-check"></input>
-                    <label for="nav-check" class="nav-toggler">
+                    <label htmlFor="nav-check" className="nav-toggler">
                         <span></span>
                     </label>
-                    <nav class="nav">
+                    <nav className="nav">
                     {
                         menuItem.map(item => (
                             <NavLink to={item.path} className="link" key={item.path}>

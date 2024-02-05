@@ -1,5 +1,7 @@
 import React from "react";
 import "./GalleryCard.css"
+import { LazyLoadImage } from "react-lazy-load-image-component";
+import 'react-lazy-load-image-component/src/effects/blur.css';
 
 /**
  * Creates the Gallery Card component which is what is used on the gallery page.
@@ -8,9 +10,9 @@ import "./GalleryCard.css"
 function GalleryCard(props) {
     return (
         <div className="gallerycard_container">
-            <img src={props.image} alt="Gallery" className="gallerycard_image" />
+            <LazyLoadImage src={props.image} alt="Gallery" className="gallerycard_image" effect="blur"/>
             <div className="gallerycard_caption_container">
-                <p classname="gallerycard_description">{props.year}</p>
+                <p className="gallerycard_description">{props.year}</p>
             </div>
             <div >
                 {props.removeGallery}
