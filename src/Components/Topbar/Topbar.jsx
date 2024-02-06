@@ -26,7 +26,7 @@ const Topbar = ({children}) => {
         if (checkbox) {
             checkbox.checked = false;
         }
-  };
+    };
     return (
         <header className="topbar-header">
             <div className="topbar-container">
