@@ -8,6 +8,7 @@ import History from './Pages/History.jsx';
 import Sponsors from './Pages/Sponsors.jsx';
 import Gallery from './Pages/Gallery.jsx'
 import Team from './Pages/Team.jsx';
+import NotFound from './Pages/NotFound.jsx';
 import SponsorRegistration from './Pages/SponsorsRegistration.jsx';
 import Topbar from './Components/Topbar/Topbar.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -23,7 +24,7 @@ const App = () => {
         </div>
         <div style={{ display: 'flex' }}></div>
         <Routes> {/* Paths from root to different pages */}
-          <Route path="/" element={<Home />}/> { }
+          <Route path="/" element={<Home />}/>
           <Route path="/faq" element={<FAQ/>}/>
           <Route path="/history" element={<History/>}/>
           <Route path="/sponsors" element={<Sponsors/>} />
@@ -31,6 +32,7 @@ const App = () => {
           <Route path="/team" element={<Team/>} />
           <Route path="/gallery" element={<Gallery/>} />
           <Route path="/become_a_sponsor" element={<SponsorRegistration/>} />
+          <Route path="/*" element={<NotFound />}/>
         </Routes>
         <PageFooter />
       </BrowserRouter>

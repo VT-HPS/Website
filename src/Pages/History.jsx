@@ -8,7 +8,7 @@ import history_infos from "../Assets/History.json"
  */
 
 
-const History = ({ signedIn }) => {
+const History = () => {
     var [historyList, setHistory] = useState([])
 
     useEffect(() => {

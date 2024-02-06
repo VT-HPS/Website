@@ -429,3 +429,34 @@ body {
 body {
   background-color: #ffffff; /* Solid white background */
 }
+
+
+/* PageNotFound.css */
+
+.page-not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  min-height: 66.5vh;
+  background-color: #f0f0f0;
+}
+
+.page-not-found-container h1 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.page-not-found-container p {
+  font-size: 1.2em;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.page-not-found-container a {
+  color: #007bff;
+  text-decoration: none;
+  font-weight: bold;
+}

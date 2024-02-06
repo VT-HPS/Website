@@ -78,7 +78,6 @@ const FAQ = () => {
     const config = {
         animate: true,
         arrowIcon: "V",
-        openOnload: 0,
         expandIcon: "+",
         collapseIcon: "-",
         tabFocus: true,
