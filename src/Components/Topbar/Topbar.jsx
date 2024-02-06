@@ -19,6 +19,14 @@ const Topbar = ({children}) => {
         { path: '/gallery', name: 'Gallery'},
         { path: '/faq', name: 'FAQ'}
     ];
+
+    const closeHamburgerMenu = () => {
+        // Find the checkbox element and uncheck it
+        const checkbox = document.getElementById('nav-check');
+        if (checkbox) {
+            checkbox.checked = false;
+        }
+  };
     return (
         <header className="topbar-header">
             <div className="topbar-container">
@@ -35,7 +43,7 @@ const Topbar = ({children}) => {
                     <nav className="nav">
                     {
                         menuItem.map(item => (
-                            <NavLink to={item.path} className="link" key={item.path}>
+                            <NavLink onClick={closeHamburgerMenu} to={item.path} className="link" key={item.path}>
                                 <div className="link-text">{item.name}</div>
                             </NavLink>
                         ))
