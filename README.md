@@ -12,40 +12,20 @@ Run the react app
 
 Access running react app: go to ```http://localhost:3000```
 
-## Building site with Hugo
+## Build react site
 
-### Install Hugo
+In this github top folder run the command ```npm run build```, this will build the static files for the react site in a folder called "build"
 
-```pip install hugo``` for windows
-```apt-get install hugo``` for linux
+## Push build folder to gitlab
 
-### Build react site
+Pull the gitlab folder into a nearby folder with the command
+```git clone <link to gitlab>```
 
-In this github top folder run the command ```npm run build```, this will build the static files for the react site
+Remove all files except the .git, .well-known, and README files
 
-### Create hugo site and copy files
+Copy the entire build folder to the gitlab
+```cp /path/to/build/* /path/to/gitlab/```
 
-In a new folder outside of the repo run the following commands
-```hugo new site <site name>```
-```cp -r ./path_to_react_github/build ./path_to_hugo_site/static```
+Commit the changes and push to gitlab
 
-### Edit config.toml file
 
-Paste the following lines into the config.toml file in the hugo site
-```baseURL = 'http://hps.aoe.vt.edu/'```
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-```# config.toml```
-[[outputs]]
-path = "public/"
-
-[outputFormats]
-[outputFormats.Static]
-  baseName = "index"
-  mediaType = "text/html"
-  isHTML = true```
-
-### Use hugo site
-
-```hugo server``` will show a development server of the site, which should match the react site
-```hugo``` to build production files
