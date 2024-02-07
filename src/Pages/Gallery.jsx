@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from "react";
 import galleryInfos from "../Assets/Gallery.json";
 import Card from "../Components/GalleryCard/GalleryCard";
+import { trackWindowScroll } from 'react-lazy-load-image-component';
 
 /**
  * Creates the Gallery page which contains a series of gallery cards that are created from
  * a json file called "GalleryInfos.json". The page also has a sort drop down menu in the top left corner
  * that enables the user to sort the gallery images based on date and title. 
  */
-const Gallery = () => {
+const Gallery = ({ scrollPosition }) => {
     var [galleryList, setGallerys] = useState([]);
     var [sortMethod, setSortMethod] = useState('year-asc');
 
@@ -67,6 +68,7 @@ const Gallery = () => {
                                     id={gallery.id}
                                     year={gallery.year}
                                     image={gallery.image}
+                                    position={scrollPosition}
                                 />
                             </div>
                         );
@@ -77,4 +79,4 @@ const Gallery = () => {
     )
 }
 
-export default Gallery;
+export default trackWindowScroll(Gallery);

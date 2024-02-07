@@ -1,13 +1,14 @@
 import React, { useState, useEffect } from "react";
 import memberInfos from '../Assets/MemberInfo.json';
 import TeamCard from "../Components/TeamCard/TeamCard";
+import { trackWindowScroll } from 'react-lazy-load-image-component';
 
 /**
  * Creates the team page which contains a grid of Team Card components that display
  * images and information of members of the team. The team cards are created using information
  * from a mongo database. 
  */
-const Team = () => {
+const Team = ({ scrollPosition }) => {
     var [teamList, setTeam] = useState([]);
 
     /**
@@ -38,6 +39,7 @@ const Team = () => {
                                     image={team.image}
                                     position={team.position}
                                     year={team.year}
+                                    scrollPosition={scrollPosition}
                                 />
                             </div>
                         );
@@ -67,7 +69,7 @@ const Team = () => {
     )
 }
 
-export default Team;
+export default trackWindowScroll(Team);
 
 // var [sortMethod, setSortMethod] = useState('year-asc');
 // var yearDict = {

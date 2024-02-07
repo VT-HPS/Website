@@ -10,7 +10,7 @@ import 'react-lazy-load-image-component/src/effects/blur.css';
 function TeamCard(props) {
     return (
         <div className="teamcard_container">
-            <LazyLoadImage src={props.image} alt="Team" className="teamcard_image" effect="blur"/>
+            <LazyLoadImage src={props.image} alt="Team" className="teamcard_image" effect="blur" scrollPosition={props.scrollPosition}/>
             <div className="teamcard_info_container">
                  <h2 className="teamcard_name">{props.name}</h2>
                  <p className="teamcard_position">{props.position}</p>
