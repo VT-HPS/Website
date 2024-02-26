@@ -68,6 +68,7 @@ const Gallery = ({ scrollPosition }) => {
                                     id={gallery.id}
                                     year={gallery.year}
                                     image={gallery.image}
+                                    placeholder={gallery.placeholder}
                                     position={scrollPosition}
                                 />
                             </div>

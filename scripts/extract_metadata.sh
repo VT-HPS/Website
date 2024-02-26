@@ -60,8 +60,13 @@ while IFS= read -r -d '' photo; do
 	continue
     fi
 
+    photo_base="${photo:2}"
+    photo_no_ext="${photo_base%.*}"
+    photo_ext="${photo_base##*.}"
+    found_file=$(find "../Gallery_Images_Placeholders/" -type f -name "${photo_no_ext}_Placeholder.${photo_ext}")
+
     # Construct the JSON entry
-    json_entry="{\"id\":\"$id\", \"image\":\"./Gallery_Images/${photo:2}\", \"year\":\"$year\", \"month\":\"$month\", \"day\":\"$day\"},"
+    json_entry="{\"id\":\"$id\", \"image\":\"./Gallery_Images/${photo:2}\", \"placeholder\":\".${found_file:2}\", \"year\":\"$year\", \"month\":\"$month\", \"day\":\"$day\"},"
 
     # Append to the output JSON file
     echo "$json_entry" >> "$output_file"

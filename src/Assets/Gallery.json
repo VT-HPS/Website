@@ -2,6 +2,7 @@
     {
         "id": "1",
         "image": "./Gallery_Images/2.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/2_Placeholder.jpg",
         "year": "2017",
         "month": "06",
         "day": "30"
@@ -9,6 +10,7 @@
     {
         "id": "2",
         "image": "./Gallery_Images/20171104_124102.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20171104_124102_Placeholder.jpg",
         "year": "2017",
         "month": "11",
         "day": "04"
@@ -16,6 +18,7 @@
     {
         "id": "3",
         "image": "./Gallery_Images/20181023_184541.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181023_184541_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "23"
@@ -23,6 +26,7 @@
     {
         "id": "4",
         "image": "./Gallery_Images/20181023_185546.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181023_185546_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "23"
@@ -30,6 +34,7 @@
     {
         "id": "5",
         "image": "./Gallery_Images/20181023_185547.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181023_185547_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "23"
@@ -37,6 +42,7 @@
     {
         "id": "6",
         "image": "./Gallery_Images/20181023_185610.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181023_185610_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "23"
@@ -44,6 +50,7 @@
     {
         "id": "7",
         "image": "./Gallery_Images/20181110_115413.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181110_115413_Placeholder.jpg",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -51,6 +58,7 @@
     {
         "id": "8",
         "image": "./Gallery_Images/20181110_115712.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181110_115712_Placeholder.jpg",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -58,6 +66,7 @@
     {
         "id": "9",
         "image": "./Gallery_Images/20181110_154334.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181110_154334_Placeholder.jpg",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -65,6 +74,7 @@
     {
         "id": "10",
         "image": "./Gallery_Images/20181114_130750.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20181114_130750_Placeholder.jpg",
         "year": "2018",
         "month": "11",
         "day": "14"
@@ -72,6 +82,7 @@
     {
         "id": "11",
         "image": "./Gallery_Images/20190203_163352.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190203_163352_Placeholder.jpg",
         "year": "2019",
         "month": "02",
         "day": "03"
@@ -79,6 +90,7 @@
     {
         "id": "12",
         "image": "./Gallery_Images/20190223_130622.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190223_130622_Placeholder.jpg",
         "year": "2019",
         "month": "02",
         "day": "23"
@@ -86,6 +98,7 @@
     {
         "id": "13",
         "image": "./Gallery_Images/20190223_142325.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190223_142325_Placeholder.jpg",
         "year": "2019",
         "month": "02",
         "day": "23"
@@ -93,6 +106,7 @@
     {
         "id": "14",
         "image": "./Gallery_Images/20190302_135813.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190302_135813_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "02"
@@ -100,6 +114,7 @@
     {
         "id": "15",
         "image": "./Gallery_Images/20190302_142223.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190302_142223_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "02"
@@ -107,6 +122,7 @@
     {
         "id": "16",
         "image": "./Gallery_Images/20190302_142234.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190302_142234_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "02"
@@ -114,6 +130,7 @@
     {
         "id": "17",
         "image": "./Gallery_Images/20190302_143458.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190302_143458_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "02"
@@ -121,6 +138,7 @@
     {
         "id": "18",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6247.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6247_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -128,6 +146,7 @@
     {
         "id": "19",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6259.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6259_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -135,6 +154,7 @@
     {
         "id": "20",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6300.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6300_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -142,6 +162,7 @@
     {
         "id": "21",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6314.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6314_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -149,6 +170,7 @@
     {
         "id": "22",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6368.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6368_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -156,6 +178,7 @@
     {
         "id": "23",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6394.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6394_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -163,6 +186,7 @@
     {
         "id": "24",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6473.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6473_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -170,6 +194,7 @@
     {
         "id": "25",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6476.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6476_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -177,6 +202,7 @@
     {
         "id": "26",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6599.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6599_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -184,6 +210,7 @@
     {
         "id": "27",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6699.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6699_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -191,6 +218,7 @@
     {
         "id": "28",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6733.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6733_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -198,6 +226,7 @@
     {
         "id": "29",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6827.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6827_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -205,6 +234,7 @@
     {
         "id": "30",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6833.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6833_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -212,6 +242,7 @@
     {
         "id": "31",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6849.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6849_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -219,6 +250,7 @@
     {
         "id": "32",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6919.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6919_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -226,6 +258,7 @@
     {
         "id": "33",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6926.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6926_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -233,6 +266,7 @@
     {
         "id": "34",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6969.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6969_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -240,6 +274,7 @@
     {
         "id": "35",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-6987.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-6987_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -247,6 +282,7 @@
     {
         "id": "36",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7011.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7011_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -254,6 +290,7 @@
     {
         "id": "37",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7030.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7030_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -261,6 +298,7 @@
     {
         "id": "38",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7066.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7066_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -268,6 +306,7 @@
     {
         "id": "39",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7074.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7074_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -275,6 +314,7 @@
     {
         "id": "40",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7082.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7082_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -282,6 +322,7 @@
     {
         "id": "41",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7271.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7271_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -289,6 +330,7 @@
     {
         "id": "42",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7278.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7278_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -296,6 +338,7 @@
     {
         "id": "43",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7300.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7300_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -303,6 +346,7 @@
     {
         "id": "44",
         "image": "./Gallery_Images/20190402 - Human Powered Sub - By Peter Means-7314.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190402 - Human Powered Sub - By Peter Means-7314_Placeholder.jpg",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -310,6 +354,7 @@
     {
         "id": "45",
         "image": "./Gallery_Images/20190504_002547.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190504_002547_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -317,6 +362,7 @@
     {
         "id": "46",
         "image": "./Gallery_Images/20190620_201334.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_201334_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -324,6 +370,7 @@
     {
         "id": "47",
         "image": "./Gallery_Images/20190620_201524.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_201524_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -331,6 +378,7 @@
     {
         "id": "48",
         "image": "./Gallery_Images/20190620_201610.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_201610_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -338,6 +386,7 @@
     {
         "id": "49",
         "image": "./Gallery_Images/20190620_201851.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_201851_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -345,6 +394,7 @@
     {
         "id": "50",
         "image": "./Gallery_Images/20190620_201938.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_201938_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -352,6 +402,7 @@
     {
         "id": "51",
         "image": "./Gallery_Images/20190620_202520.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190620_202520_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "20"
@@ -359,6 +410,7 @@
     {
         "id": "52",
         "image": "./Gallery_Images/20190623_142705.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190623_142705_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "23"
@@ -366,6 +418,7 @@
     {
         "id": "53",
         "image": "./Gallery_Images/20190624_091407.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_091407_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -373,6 +426,7 @@
     {
         "id": "54",
         "image": "./Gallery_Images/20190624_092006.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_092006_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -380,6 +434,7 @@
     {
         "id": "55",
         "image": "./Gallery_Images/20190624_103137.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_103137_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -387,6 +442,7 @@
     {
         "id": "56",
         "image": "./Gallery_Images/20190624_103434.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_103434_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -394,6 +450,7 @@
     {
         "id": "57",
         "image": "./Gallery_Images/20190624_143657.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_143657_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -401,6 +458,7 @@
     {
         "id": "58",
         "image": "./Gallery_Images/20190624_143912.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190624_143912_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -408,6 +466,7 @@
     {
         "id": "59",
         "image": "./Gallery_Images/20190625_090811.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_090811_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -415,6 +474,7 @@
     {
         "id": "60",
         "image": "./Gallery_Images/20190625_090819.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_090819_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -422,6 +482,7 @@
     {
         "id": "61",
         "image": "./Gallery_Images/20190625_090850.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_090850_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -429,6 +490,7 @@
     {
         "id": "62",
         "image": "./Gallery_Images/20190625_090852.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_090852_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -436,6 +498,7 @@
     {
         "id": "63",
         "image": "./Gallery_Images/20190625_090921(0).jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_090921(0)_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -443,6 +506,7 @@
     {
         "id": "64",
         "image": "./Gallery_Images/20190625_192227.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190625_192227_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -450,6 +514,7 @@
     {
         "id": "65",
         "image": "./Gallery_Images/20190626_074032.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190626_074032_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "26"
@@ -457,6 +522,7 @@
     {
         "id": "66",
         "image": "./Gallery_Images/20190628_113742.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190628_113742_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "28"
@@ -464,6 +530,7 @@
     {
         "id": "67",
         "image": "./Gallery_Images/20190628_113746.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190628_113746_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "28"
@@ -471,6 +538,7 @@
     {
         "id": "68",
         "image": "./Gallery_Images/20190629_183338.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20190629_183338_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "29"
@@ -478,6 +546,7 @@
     {
         "id": "69",
         "image": "./Gallery_Images/20200115_160958.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20200115_160958_Placeholder.jpg",
         "year": "2020",
         "month": "01",
         "day": "15"
@@ -485,6 +554,7 @@
     {
         "id": "70",
         "image": "./Gallery_Images/20210612_120416.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20210612_120416_Placeholder.jpg",
         "year": "2021",
         "month": "06",
         "day": "12"
@@ -492,6 +562,7 @@
     {
         "id": "71",
         "image": "./Gallery_Images/20210612_130715.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20210612_130715_Placeholder.jpg",
         "year": "2021",
         "month": "06",
         "day": "12"
@@ -499,6 +570,7 @@
     {
         "id": "72",
         "image": "./Gallery_Images/20210612_144045.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20210612_144045_Placeholder.jpg",
         "year": "2021",
         "month": "06",
         "day": "12"
@@ -506,6 +578,7 @@
     {
         "id": "73",
         "image": "./Gallery_Images/20221023_080013.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_080013_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -513,6 +586,7 @@
     {
         "id": "74",
         "image": "./Gallery_Images/20221023_080603.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_080603_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -520,6 +594,7 @@
     {
         "id": "75",
         "image": "./Gallery_Images/20221023_080618.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_080618_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -527,6 +602,7 @@
     {
         "id": "76",
         "image": "./Gallery_Images/20221023_081901.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_081901_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -534,6 +610,7 @@
     {
         "id": "77",
         "image": "./Gallery_Images/20221023_081935.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_081935_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -541,6 +618,7 @@
     {
         "id": "78",
         "image": "./Gallery_Images/20221023_082303.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_082303_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -548,6 +626,7 @@
     {
         "id": "79",
         "image": "./Gallery_Images/20221023_082328.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_082328_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -555,6 +634,7 @@
     {
         "id": "80",
         "image": "./Gallery_Images/20221023_082645.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_082645_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -562,6 +642,7 @@
     {
         "id": "81",
         "image": "./Gallery_Images/20221023_083142.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_083142_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -569,6 +650,7 @@
     {
         "id": "82",
         "image": "./Gallery_Images/20221023_083555.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_083555_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -576,6 +658,7 @@
     {
         "id": "83",
         "image": "./Gallery_Images/20221023_084503.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_084503_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -583,6 +666,7 @@
     {
         "id": "84",
         "image": "./Gallery_Images/20221023_085105.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_085105_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -590,6 +674,7 @@
     {
         "id": "85",
         "image": "./Gallery_Images/20221023_094641.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/20221023_094641_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -597,6 +682,7 @@
     {
         "id": "86",
         "image": "./Gallery_Images/70951196131__D24F5D7D-158D-4132-8E4B-B49AD9B549C0.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/70951196131__D24F5D7D-158D-4132-8E4B-B49AD9B549C0_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -604,6 +690,7 @@
     {
         "id": "87",
         "image": "./Gallery_Images/Copy of 20190624_092006.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Copy of 20190624_092006_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -611,6 +698,7 @@
     {
         "id": "88",
         "image": "./Gallery_Images/Copy of PB100237 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/Copy of PB100237 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -618,6 +706,7 @@
     {
         "id": "89",
         "image": "./Gallery_Images/DSC02586.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02586_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -625,6 +714,7 @@
     {
         "id": "90",
         "image": "./Gallery_Images/DSC02588.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02588_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -632,6 +722,7 @@
     {
         "id": "91",
         "image": "./Gallery_Images/DSC02589.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02589_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -639,6 +730,7 @@
     {
         "id": "92",
         "image": "./Gallery_Images/DSC02594.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02594_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -646,6 +738,7 @@
     {
         "id": "93",
         "image": "./Gallery_Images/DSC02599.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02599_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -653,6 +746,7 @@
     {
         "id": "94",
         "image": "./Gallery_Images/DSC02600.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02600_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -660,6 +754,7 @@
     {
         "id": "95",
         "image": "./Gallery_Images/DSC02602.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02602_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -667,6 +762,7 @@
     {
         "id": "96",
         "image": "./Gallery_Images/DSC02608.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02608_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -674,6 +770,7 @@
     {
         "id": "97",
         "image": "./Gallery_Images/DSC02609.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02609_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -681,6 +778,7 @@
     {
         "id": "98",
         "image": "./Gallery_Images/DSC02616.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02616_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -688,6 +786,7 @@
     {
         "id": "99",
         "image": "./Gallery_Images/DSC02624.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02624_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -695,6 +794,7 @@
     {
         "id": "100",
         "image": "./Gallery_Images/DSC02625.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02625_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -702,6 +802,7 @@
     {
         "id": "101",
         "image": "./Gallery_Images/DSC02640.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02640_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -709,6 +810,7 @@
     {
         "id": "102",
         "image": "./Gallery_Images/DSC02642.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC02642_Placeholder.JPG",
         "year": "2017",
         "month": "11",
         "day": "05"
@@ -716,6 +818,7 @@
     {
         "id": "103",
         "image": "./Gallery_Images/DSC_6923.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6923_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -723,6 +826,7 @@
     {
         "id": "104",
         "image": "./Gallery_Images/DSC_6929.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6929_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -730,6 +834,7 @@
     {
         "id": "105",
         "image": "./Gallery_Images/DSC_6931.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6931_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -737,6 +842,7 @@
     {
         "id": "106",
         "image": "./Gallery_Images/DSC_6933.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6933_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -744,6 +850,7 @@
     {
         "id": "107",
         "image": "./Gallery_Images/DSC_6939.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6939_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -751,6 +858,7 @@
     {
         "id": "108",
         "image": "./Gallery_Images/DSC_6950.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6950_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -758,6 +866,7 @@
     {
         "id": "109",
         "image": "./Gallery_Images/DSC_6955.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6955_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -765,6 +874,7 @@
     {
         "id": "110",
         "image": "./Gallery_Images/DSC_6962.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6962_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -772,6 +882,7 @@
     {
         "id": "111",
         "image": "./Gallery_Images/DSC_6976.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6976_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -779,6 +890,7 @@
     {
         "id": "112",
         "image": "./Gallery_Images/DSC_6983.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_6983_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -786,6 +898,7 @@
     {
         "id": "113",
         "image": "./Gallery_Images/DSC_7003.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7003_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -793,6 +906,7 @@
     {
         "id": "114",
         "image": "./Gallery_Images/DSC_7007.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7007_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -800,6 +914,7 @@
     {
         "id": "115",
         "image": "./Gallery_Images/DSC_7010.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7010_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -807,6 +922,7 @@
     {
         "id": "116",
         "image": "./Gallery_Images/DSC_7021.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7021_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -814,6 +930,7 @@
     {
         "id": "117",
         "image": "./Gallery_Images/DSC_7024.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7024_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -821,6 +938,7 @@
     {
         "id": "118",
         "image": "./Gallery_Images/DSC_7025.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7025_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -828,6 +946,7 @@
     {
         "id": "119",
         "image": "./Gallery_Images/DSC_7054.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7054_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -835,6 +954,7 @@
     {
         "id": "120",
         "image": "./Gallery_Images/DSC_7060.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7060_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -842,6 +962,7 @@
     {
         "id": "121",
         "image": "./Gallery_Images/DSC_7063.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7063_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -849,6 +970,7 @@
     {
         "id": "122",
         "image": "./Gallery_Images/DSC_7066.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7066_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -856,6 +978,7 @@
     {
         "id": "123",
         "image": "./Gallery_Images/DSC_7071.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7071_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -863,6 +986,7 @@
     {
         "id": "124",
         "image": "./Gallery_Images/DSC_7079.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/DSC_7079_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "13"
@@ -870,6 +994,7 @@
     {
         "id": "125",
         "image": "./Gallery_Images/Full_Team_Photo.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Full_Team_Photo_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -877,6 +1002,7 @@
     {
         "id": "126",
         "image": "./Gallery_Images/G0030082.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030082_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -884,6 +1010,7 @@
     {
         "id": "127",
         "image": "./Gallery_Images/G0030112.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030112_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -891,6 +1018,7 @@
     {
         "id": "128",
         "image": "./Gallery_Images/G0030207.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030207_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -898,6 +1026,7 @@
     {
         "id": "129",
         "image": "./Gallery_Images/G0030239.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030239_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -905,6 +1034,7 @@
     {
         "id": "130",
         "image": "./Gallery_Images/G0030676.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030676_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -912,6 +1042,7 @@
     {
         "id": "131",
         "image": "./Gallery_Images/G0030678.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030678_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -919,6 +1050,7 @@
     {
         "id": "132",
         "image": "./Gallery_Images/G0030679.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030679_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -926,6 +1058,7 @@
     {
         "id": "133",
         "image": "./Gallery_Images/G0030681.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030681_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -933,6 +1066,7 @@
     {
         "id": "134",
         "image": "./Gallery_Images/G0030682.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030682_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -940,6 +1074,7 @@
     {
         "id": "135",
         "image": "./Gallery_Images/G0030804.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0030804_Placeholder.JPG",
         "year": "2018",
         "month": "08",
         "day": "31"
@@ -947,6 +1082,7 @@
     {
         "id": "136",
         "image": "./Gallery_Images/G0041189.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0041189_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -954,6 +1090,7 @@
     {
         "id": "137",
         "image": "./Gallery_Images/G0051497.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051497_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -961,6 +1098,7 @@
     {
         "id": "138",
         "image": "./Gallery_Images/G0051498.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051498_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -968,6 +1106,7 @@
     {
         "id": "139",
         "image": "./Gallery_Images/G0051499.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051499_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -975,6 +1114,7 @@
     {
         "id": "140",
         "image": "./Gallery_Images/G0051500.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051500_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -982,6 +1122,7 @@
     {
         "id": "141",
         "image": "./Gallery_Images/G0051610.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051610_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -989,6 +1130,7 @@
     {
         "id": "142",
         "image": "./Gallery_Images/G0051612.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051612_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -996,6 +1138,7 @@
     {
         "id": "143",
         "image": "./Gallery_Images/G0051614.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0051614_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "01"
@@ -1003,6 +1146,7 @@
     {
         "id": "144",
         "image": "./Gallery_Images/G0210874.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0210874_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "21"
@@ -1010,6 +1154,7 @@
     {
         "id": "145",
         "image": "./Gallery_Images/G0220879.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0220879_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "21"
@@ -1017,6 +1162,7 @@
     {
         "id": "146",
         "image": "./Gallery_Images/G0220883.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0220883_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "21"
@@ -1024,6 +1170,7 @@
     {
         "id": "147",
         "image": "./Gallery_Images/G0230893.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/G0230893_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "21"
@@ -1031,6 +1178,7 @@
     {
         "id": "148",
         "image": "./Gallery_Images/GOPR0017.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0017_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1038,6 +1186,7 @@
     {
         "id": "149",
         "image": "./Gallery_Images/GOPR0018.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0018_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1045,6 +1194,7 @@
     {
         "id": "150",
         "image": "./Gallery_Images/GOPR0019.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0019_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1052,6 +1202,7 @@
     {
         "id": "151",
         "image": "./Gallery_Images/GOPR0020.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0020_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1059,6 +1210,7 @@
     {
         "id": "152",
         "image": "./Gallery_Images/GOPR0029.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0029_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1066,6 +1218,7 @@
     {
         "id": "153",
         "image": "./Gallery_Images/GOPR0030.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0030_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1073,6 +1226,7 @@
     {
         "id": "154",
         "image": "./Gallery_Images/GOPR0031.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0031_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1080,6 +1234,7 @@
     {
         "id": "155",
         "image": "./Gallery_Images/GOPR0032.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0032_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1087,6 +1242,7 @@
     {
         "id": "156",
         "image": "./Gallery_Images/GOPR0033.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0033_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1094,6 +1250,7 @@
     {
         "id": "157",
         "image": "./Gallery_Images/GOPR0034.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0034_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1101,6 +1258,7 @@
     {
         "id": "158",
         "image": "./Gallery_Images/GOPR0035.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0035_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1108,6 +1266,7 @@
     {
         "id": "159",
         "image": "./Gallery_Images/GOPR0036.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0036_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1115,6 +1274,7 @@
     {
         "id": "160",
         "image": "./Gallery_Images/GOPR0037.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0037_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1122,6 +1282,7 @@
     {
         "id": "161",
         "image": "./Gallery_Images/GOPR0038.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0038_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1129,6 +1290,7 @@
     {
         "id": "162",
         "image": "./Gallery_Images/GOPR0039.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0039_Placeholder.JPG",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -1136,6 +1298,7 @@
     {
         "id": "163",
         "image": "./Gallery_Images/GOPR0805.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0805_Placeholder.JPG",
         "year": "2018",
         "month": "04",
         "day": "22"
@@ -1143,6 +1306,7 @@
     {
         "id": "164",
         "image": "./Gallery_Images/GOPR0806.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0806_Placeholder.JPG",
         "year": "2018",
         "month": "04",
         "day": "22"
@@ -1150,6 +1314,7 @@
     {
         "id": "165",
         "image": "./Gallery_Images/GOPR0811.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0811_Placeholder.JPG",
         "year": "2018",
         "month": "04",
         "day": "22"
@@ -1157,6 +1322,7 @@
     {
         "id": "166",
         "image": "./Gallery_Images/GOPR0814.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0814_Placeholder.JPG",
         "year": "2018",
         "month": "04",
         "day": "22"
@@ -1164,6 +1330,7 @@
     {
         "id": "167",
         "image": "./Gallery_Images/GOPR0816.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0816_Placeholder.JPG",
         "year": "2018",
         "month": "04",
         "day": "22"
@@ -1171,6 +1338,7 @@
     {
         "id": "168",
         "image": "./Gallery_Images/GOPR0838.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0838_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1178,6 +1346,7 @@
     {
         "id": "169",
         "image": "./Gallery_Images/GOPR0844.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0844_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1185,6 +1354,7 @@
     {
         "id": "170",
         "image": "./Gallery_Images/GOPR0852.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0852_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1192,6 +1362,7 @@
     {
         "id": "171",
         "image": "./Gallery_Images/GOPR0857.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0857_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1199,6 +1370,7 @@
     {
         "id": "172",
         "image": "./Gallery_Images/GOPR0860.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0860_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1206,6 +1378,7 @@
     {
         "id": "173",
         "image": "./Gallery_Images/GOPR0865.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0865_Placeholder.JPG",
         "year": "2020",
         "month": "02",
         "day": "21"
@@ -1213,6 +1386,7 @@
     {
         "id": "174",
         "image": "./Gallery_Images/GOPR0900.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0900_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1220,6 +1394,7 @@
     {
         "id": "175",
         "image": "./Gallery_Images/GOPR0906.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0906_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1227,6 +1402,7 @@
     {
         "id": "176",
         "image": "./Gallery_Images/GOPR0908.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0908_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1234,6 +1410,7 @@
     {
         "id": "177",
         "image": "./Gallery_Images/GOPR0913.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0913_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1241,6 +1418,7 @@
     {
         "id": "178",
         "image": "./Gallery_Images/GOPR0924.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0924_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "06"
@@ -1248,6 +1426,7 @@
     {
         "id": "179",
         "image": "./Gallery_Images/GOPR0945.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0945_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1255,6 +1434,7 @@
     {
         "id": "180",
         "image": "./Gallery_Images/GOPR0953.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0953_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1262,6 +1442,7 @@
     {
         "id": "181",
         "image": "./Gallery_Images/GOPR0956.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0956_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1269,6 +1450,7 @@
     {
         "id": "182",
         "image": "./Gallery_Images/GOPR0958.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0958_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1276,6 +1458,7 @@
     {
         "id": "183",
         "image": "./Gallery_Images/GOPR0960.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0960_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1283,6 +1466,7 @@
     {
         "id": "184",
         "image": "./Gallery_Images/GOPR0962.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0962_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1290,6 +1474,7 @@
     {
         "id": "185",
         "image": "./Gallery_Images/GOPR0970.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0970_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1297,6 +1482,7 @@
     {
         "id": "186",
         "image": "./Gallery_Images/GOPR0972.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0972_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1304,6 +1490,7 @@
     {
         "id": "187",
         "image": "./Gallery_Images/GOPR0973.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0973_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1311,6 +1498,7 @@
     {
         "id": "188",
         "image": "./Gallery_Images/GOPR0978.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0978_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1318,6 +1506,7 @@
     {
         "id": "189",
         "image": "./Gallery_Images/GOPR0986.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR0986_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1325,6 +1514,7 @@
     {
         "id": "190",
         "image": "./Gallery_Images/GOPR1011.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1011_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1332,6 +1522,7 @@
     {
         "id": "191",
         "image": "./Gallery_Images/GOPR1013.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1013_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1339,6 +1530,7 @@
     {
         "id": "192",
         "image": "./Gallery_Images/GOPR1021.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1021_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1346,6 +1538,7 @@
     {
         "id": "193",
         "image": "./Gallery_Images/GOPR1026.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1026_Placeholder.JPG",
         "year": "2015",
         "month": "01",
         "day": "01"
@@ -1353,6 +1546,7 @@
     {
         "id": "194",
         "image": "./Gallery_Images/GOPR1070.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1070_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1360,6 +1554,7 @@
     {
         "id": "195",
         "image": "./Gallery_Images/GOPR1079.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1079_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1367,6 +1562,7 @@
     {
         "id": "196",
         "image": "./Gallery_Images/GOPR1088.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1088_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1374,6 +1570,7 @@
     {
         "id": "197",
         "image": "./Gallery_Images/GOPR1096.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1096_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1381,6 +1578,7 @@
     {
         "id": "198",
         "image": "./Gallery_Images/GOPR1097.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1097_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1388,6 +1586,7 @@
     {
         "id": "199",
         "image": "./Gallery_Images/GOPR1098.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1098_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1395,6 +1594,7 @@
     {
         "id": "200",
         "image": "./Gallery_Images/GOPR1103.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1103_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1402,6 +1602,7 @@
     {
         "id": "201",
         "image": "./Gallery_Images/GOPR1109.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1109_Placeholder.JPG",
         "year": "2013",
         "month": "06",
         "day": "13"
@@ -1409,6 +1610,7 @@
     {
         "id": "202",
         "image": "./Gallery_Images/GOPR1111.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1111_Placeholder.JPG",
         "year": "2013",
         "month": "06",
         "day": "13"
@@ -1416,6 +1618,7 @@
     {
         "id": "203",
         "image": "./Gallery_Images/GOPR1112.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1112_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1423,6 +1626,7 @@
     {
         "id": "204",
         "image": "./Gallery_Images/GOPR1113.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1113_Placeholder.JPG",
         "year": "2013",
         "month": "06",
         "day": "13"
@@ -1430,6 +1634,7 @@
     {
         "id": "205",
         "image": "./Gallery_Images/GOPR1114.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR1114_Placeholder.JPG",
         "year": "2019",
         "month": "03",
         "day": "30"
@@ -1437,6 +1642,7 @@
     {
         "id": "206",
         "image": "./Gallery_Images/GOPR5234.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5234_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1444,6 +1650,7 @@
     {
         "id": "207",
         "image": "./Gallery_Images/GOPR5238.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5238_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1451,6 +1658,7 @@
     {
         "id": "208",
         "image": "./Gallery_Images/GOPR5251.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5251_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1458,6 +1666,7 @@
     {
         "id": "209",
         "image": "./Gallery_Images/GOPR5258.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5258_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1465,6 +1674,7 @@
     {
         "id": "210",
         "image": "./Gallery_Images/GOPR5260.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5260_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1472,6 +1682,7 @@
     {
         "id": "211",
         "image": "./Gallery_Images/GOPR5262.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/GOPR5262_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1479,6 +1690,7 @@
     {
         "id": "212",
         "image": "./Gallery_Images/GPTempDownload.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/GPTempDownload_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -1486,6 +1698,7 @@
     {
         "id": "213",
         "image": "./Gallery_Images/IMG_0398.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0398_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "04"
@@ -1493,6 +1706,7 @@
     {
         "id": "214",
         "image": "./Gallery_Images/IMG_0561.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0561_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1500,6 +1714,7 @@
     {
         "id": "215",
         "image": "./Gallery_Images/IMG_0568.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0568_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1507,6 +1722,7 @@
     {
         "id": "216",
         "image": "./Gallery_Images/IMG_0576.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0576_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1514,6 +1730,7 @@
     {
         "id": "217",
         "image": "./Gallery_Images/IMG_0580.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0580_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1521,6 +1738,7 @@
     {
         "id": "218",
         "image": "./Gallery_Images/IMG_0583.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0583_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1528,6 +1746,7 @@
     {
         "id": "219",
         "image": "./Gallery_Images/IMG_0587.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0587_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1535,6 +1754,7 @@
     {
         "id": "220",
         "image": "./Gallery_Images/IMG_0590.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0590_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1542,6 +1762,7 @@
     {
         "id": "221",
         "image": "./Gallery_Images/IMG_0593.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0593_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1549,6 +1770,7 @@
     {
         "id": "222",
         "image": "./Gallery_Images/IMG_0595.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0595_Placeholder.jpg",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -1556,6 +1778,7 @@
     {
         "id": "223",
         "image": "./Gallery_Images/IMG_0737.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_0737_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -1563,6 +1786,7 @@
     {
         "id": "224",
         "image": "./Gallery_Images/IMG_1035.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1035_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1570,6 +1794,7 @@
     {
         "id": "225",
         "image": "./Gallery_Images/IMG_1044.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1044_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1577,6 +1802,7 @@
     {
         "id": "226",
         "image": "./Gallery_Images/IMG_1045.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1045_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1584,6 +1810,7 @@
     {
         "id": "227",
         "image": "./Gallery_Images/IMG_1046.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1046_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1591,6 +1818,7 @@
     {
         "id": "228",
         "image": "./Gallery_Images/IMG_1046.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1046_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1598,6 +1826,7 @@
     {
         "id": "229",
         "image": "./Gallery_Images/IMG_1047.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1047_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1605,6 +1834,7 @@
     {
         "id": "230",
         "image": "./Gallery_Images/IMG_1049.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1049_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1612,6 +1842,7 @@
     {
         "id": "231",
         "image": "./Gallery_Images/IMG_1053.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1053_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1619,6 +1850,7 @@
     {
         "id": "232",
         "image": "./Gallery_Images/IMG_1054.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1054_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1626,6 +1858,7 @@
     {
         "id": "233",
         "image": "./Gallery_Images/IMG_1055.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1055_Placeholder.jpeg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1633,6 +1866,7 @@
     {
         "id": "234",
         "image": "./Gallery_Images/IMG_1062.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1062_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -1640,6 +1874,7 @@
     {
         "id": "235",
         "image": "./Gallery_Images/IMG_1107.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1107_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -1647,6 +1882,7 @@
     {
         "id": "236",
         "image": "./Gallery_Images/IMG_1120.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1120_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1654,6 +1890,7 @@
     {
         "id": "237",
         "image": "./Gallery_Images/IMG_1126.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1126_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1661,6 +1898,7 @@
     {
         "id": "238",
         "image": "./Gallery_Images/IMG_1131.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1131_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1668,6 +1906,7 @@
     {
         "id": "239",
         "image": "./Gallery_Images/IMG_1132.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1132_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1675,6 +1914,7 @@
     {
         "id": "240",
         "image": "./Gallery_Images/IMG_1136.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1136_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1682,6 +1922,7 @@
     {
         "id": "241",
         "image": "./Gallery_Images/IMG_1138.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1138_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1689,6 +1930,7 @@
     {
         "id": "242",
         "image": "./Gallery_Images/IMG_1140.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1140_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1696,6 +1938,7 @@
     {
         "id": "243",
         "image": "./Gallery_Images/IMG_1143.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1143_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1703,6 +1946,7 @@
     {
         "id": "244",
         "image": "./Gallery_Images/IMG_1147.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1147_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1710,6 +1954,7 @@
     {
         "id": "245",
         "image": "./Gallery_Images/IMG_1158.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1158_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1717,6 +1962,7 @@
     {
         "id": "246",
         "image": "./Gallery_Images/IMG_1164.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1164_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1724,6 +1970,7 @@
     {
         "id": "247",
         "image": "./Gallery_Images/IMG_1165.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1165_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -1731,6 +1978,7 @@
     {
         "id": "248",
         "image": "./Gallery_Images/IMG_1173.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1173_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -1738,6 +1986,7 @@
     {
         "id": "249",
         "image": "./Gallery_Images/IMG_1178.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1178_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -1745,6 +1994,7 @@
     {
         "id": "250",
         "image": "./Gallery_Images/IMG_1182.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1182_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -1752,6 +2002,7 @@
     {
         "id": "251",
         "image": "./Gallery_Images/IMG_1971.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1971_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1759,6 +2010,7 @@
     {
         "id": "252",
         "image": "./Gallery_Images/IMG_1973.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_1973_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1766,6 +2018,7 @@
     {
         "id": "253",
         "image": "./Gallery_Images/IMG_20180923_134700.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180923_134700_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "23"
@@ -1773,6 +2026,7 @@
     {
         "id": "254",
         "image": "./Gallery_Images/IMG_20180930_115039.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_115039_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1780,6 +2034,7 @@
     {
         "id": "255",
         "image": "./Gallery_Images/IMG_20180930_123441.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_123441_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1787,6 +2042,7 @@
     {
         "id": "256",
         "image": "./Gallery_Images/IMG_20180930_123453.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_123453_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1794,6 +2050,7 @@
     {
         "id": "257",
         "image": "./Gallery_Images/IMG_20180930_124006.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_124006_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1801,6 +2058,7 @@
     {
         "id": "258",
         "image": "./Gallery_Images/IMG_20180930_124111.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_124111_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1808,6 +2066,7 @@
     {
         "id": "259",
         "image": "./Gallery_Images/IMG_20180930_124133.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20180930_124133_Placeholder.jpg",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -1815,6 +2074,7 @@
     {
         "id": "260",
         "image": "./Gallery_Images/IMG_20181007_143936.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20181007_143936_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "07"
@@ -1822,6 +2082,7 @@
     {
         "id": "261",
         "image": "./Gallery_Images/IMG_20181007_180845_1.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20181007_180845_1_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "07"
@@ -1829,6 +2090,7 @@
     {
         "id": "262",
         "image": "./Gallery_Images/IMG_20181007_180911.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20181007_180911_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "07"
@@ -1836,6 +2098,7 @@
     {
         "id": "263",
         "image": "./Gallery_Images/IMG_20181007_180914.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20181007_180914_Placeholder.jpg",
         "year": "2018",
         "month": "10",
         "day": "07"
@@ -1843,6 +2106,7 @@
     {
         "id": "264",
         "image": "./Gallery_Images/IMG_20190504_110827.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190504_110827_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1850,6 +2114,7 @@
     {
         "id": "265",
         "image": "./Gallery_Images/IMG_20190504_121406.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190504_121406_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1857,6 +2122,7 @@
     {
         "id": "266",
         "image": "./Gallery_Images/IMG_20190504_164059_1.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190504_164059_1_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1864,6 +2130,7 @@
     {
         "id": "267",
         "image": "./Gallery_Images/IMG_20190504_164125.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190504_164125_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -1871,6 +2138,7 @@
     {
         "id": "268",
         "image": "./Gallery_Images/IMG_20190624_075049.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190624_075049_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -1878,6 +2146,7 @@
     {
         "id": "269",
         "image": "./Gallery_Images/IMG_20190624_081158.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190624_081158_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -1885,6 +2154,7 @@
     {
         "id": "270",
         "image": "./Gallery_Images/IMG_20190625_164814.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190625_164814_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"
@@ -1892,6 +2162,7 @@
     {
         "id": "271",
         "image": "./Gallery_Images/IMG_20190626_103652.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20190626_103652_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "26"
@@ -1899,6 +2170,7 @@
     {
         "id": "272",
         "image": "./Gallery_Images/IMG_20200902_183432.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20200902_183432_Placeholder.jpg",
         "year": "2020",
         "month": "09",
         "day": "02"
@@ -1906,6 +2178,7 @@
     {
         "id": "273",
         "image": "./Gallery_Images/IMG_20200902_185517.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20200902_185517_Placeholder.jpg",
         "year": "2020",
         "month": "09",
         "day": "02"
@@ -1913,6 +2186,7 @@
     {
         "id": "274",
         "image": "./Gallery_Images/IMG_20200902_193645.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20200902_193645_Placeholder.jpg",
         "year": "2020",
         "month": "09",
         "day": "02"
@@ -1920,6 +2194,7 @@
     {
         "id": "275",
         "image": "./Gallery_Images/IMG_20210430_142627656_HDR.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20210430_142627656_HDR_Placeholder.jpg",
         "year": "2021",
         "month": "04",
         "day": "30"
@@ -1927,6 +2202,7 @@
     {
         "id": "276",
         "image": "./Gallery_Images/IMG_20210430_142742495_HDR.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20210430_142742495_HDR_Placeholder.jpg",
         "year": "2021",
         "month": "04",
         "day": "30"
@@ -1934,6 +2210,7 @@
     {
         "id": "277",
         "image": "./Gallery_Images/IMG_20220227_083833.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_083833_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1941,6 +2218,7 @@
     {
         "id": "278",
         "image": "./Gallery_Images/IMG_20220227_084529.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_084529_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1948,6 +2226,7 @@
     {
         "id": "279",
         "image": "./Gallery_Images/IMG_20220227_084706.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_084706_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1955,6 +2234,7 @@
     {
         "id": "280",
         "image": "./Gallery_Images/IMG_20220227_084713.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_084713_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1962,6 +2242,7 @@
     {
         "id": "281",
         "image": "./Gallery_Images/IMG_20220227_091107.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_091107_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1969,6 +2250,7 @@
     {
         "id": "282",
         "image": "./Gallery_Images/IMG_20220227_093051.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_093051_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1976,6 +2258,7 @@
     {
         "id": "283",
         "image": "./Gallery_Images/IMG_20220227_094302.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_094302_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1983,6 +2266,7 @@
     {
         "id": "284",
         "image": "./Gallery_Images/IMG_20220227_094318.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_094318_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1990,6 +2274,7 @@
     {
         "id": "285",
         "image": "./Gallery_Images/IMG_20220227_095203.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_095203_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -1997,6 +2282,7 @@
     {
         "id": "286",
         "image": "./Gallery_Images/IMG_20220227_095226.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_095226_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2004,6 +2290,7 @@
     {
         "id": "287",
         "image": "./Gallery_Images/IMG_20220227_095443.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_095443_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2011,6 +2298,7 @@
     {
         "id": "288",
         "image": "./Gallery_Images/IMG_20220227_100750.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220227_100750_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2018,6 +2306,7 @@
     {
         "id": "289",
         "image": "./Gallery_Images/IMG_20220306_123215586.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220306_123215586_Placeholder.jpg",
         "year": "2022",
         "month": "03",
         "day": "06"
@@ -2025,6 +2314,7 @@
     {
         "id": "290",
         "image": "./Gallery_Images/IMG_20220307_122446197.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220307_122446197_Placeholder.jpg",
         "year": "2022",
         "month": "03",
         "day": "07"
@@ -2032,6 +2322,7 @@
     {
         "id": "291",
         "image": "./Gallery_Images/IMG_20220307_122552401.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220307_122552401_Placeholder.jpg",
         "year": "2022",
         "month": "03",
         "day": "07"
@@ -2039,6 +2330,7 @@
     {
         "id": "292",
         "image": "./Gallery_Images/IMG_20220308_100749202_HDR.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220308_100749202_HDR_Placeholder.jpg",
         "year": "2022",
         "month": "03",
         "day": "08"
@@ -2046,6 +2338,7 @@
     {
         "id": "293",
         "image": "./Gallery_Images/IMG_20220308_100947435_HDR.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_20220308_100947435_HDR_Placeholder.jpg",
         "year": "2022",
         "month": "03",
         "day": "08"
@@ -2053,6 +2346,7 @@
     {
         "id": "294",
         "image": "./Gallery_Images/img_2242.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/img_2242_Placeholder.jpg",
         "year": "2020",
         "month": "01",
         "day": "15"
@@ -2060,6 +2354,7 @@
     {
         "id": "295",
         "image": "./Gallery_Images/IMG_2371.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2371_Placeholder.JPG",
         "year": "2018",
         "month": "10",
         "day": "07"
@@ -2067,6 +2362,7 @@
     {
         "id": "296",
         "image": "./Gallery_Images/IMG_2501.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2501_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "08"
@@ -2074,6 +2370,7 @@
     {
         "id": "297",
         "image": "./Gallery_Images/IMG_2506(1).jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2506(1)_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "04"
@@ -2081,6 +2378,7 @@
     {
         "id": "298",
         "image": "./Gallery_Images/IMG_2507.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2507_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "04"
@@ -2088,6 +2386,7 @@
     {
         "id": "299",
         "image": "./Gallery_Images/IMG_2565.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2565_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "08"
@@ -2095,6 +2394,7 @@
     {
         "id": "300",
         "image": "./Gallery_Images/IMG_2566.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2566_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "08"
@@ -2102,6 +2402,7 @@
     {
         "id": "301",
         "image": "./Gallery_Images/IMG_2585.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2585_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "09"
@@ -2109,6 +2410,7 @@
     {
         "id": "302",
         "image": "./Gallery_Images/IMG_2615.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2615_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "15"
@@ -2116,6 +2418,7 @@
     {
         "id": "303",
         "image": "./Gallery_Images/IMG_2622.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2622_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "15"
@@ -2123,6 +2426,7 @@
     {
         "id": "304",
         "image": "./Gallery_Images/IMG_2627.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2627_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -2130,6 +2434,7 @@
     {
         "id": "305",
         "image": "./Gallery_Images/IMG_2629.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_2629_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -2137,6 +2442,7 @@
     {
         "id": "306",
         "image": "./Gallery_Images/IMG_3135.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3135_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2144,6 +2450,7 @@
     {
         "id": "307",
         "image": "./Gallery_Images/IMG_3136.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3136_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2151,6 +2458,7 @@
     {
         "id": "308",
         "image": "./Gallery_Images/IMG_3137.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3137_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2158,6 +2466,7 @@
     {
         "id": "309",
         "image": "./Gallery_Images/IMG_3138.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3138_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2165,6 +2474,7 @@
     {
         "id": "310",
         "image": "./Gallery_Images/IMG_3145.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3145_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2172,6 +2482,7 @@
     {
         "id": "311",
         "image": "./Gallery_Images/IMG_3149.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3149_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2179,6 +2490,7 @@
     {
         "id": "312",
         "image": "./Gallery_Images/IMG_3153.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3153_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2186,6 +2498,7 @@
     {
         "id": "313",
         "image": "./Gallery_Images/IMG_3155.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3155_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2193,6 +2506,7 @@
     {
         "id": "314",
         "image": "./Gallery_Images/IMG_3163.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3163_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2200,6 +2514,7 @@
     {
         "id": "315",
         "image": "./Gallery_Images/IMG_3170.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3170_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2207,6 +2522,7 @@
     {
         "id": "316",
         "image": "./Gallery_Images/IMG_3171.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3171_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2214,6 +2530,7 @@
     {
         "id": "317",
         "image": "./Gallery_Images/IMG_3174.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3174_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2221,6 +2538,7 @@
     {
         "id": "318",
         "image": "./Gallery_Images/IMG_3184.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3184_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2228,6 +2546,7 @@
     {
         "id": "319",
         "image": "./Gallery_Images/IMG_3185.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3185_Placeholder.JPG",
         "year": "2023",
         "month": "04",
         "day": "23"
@@ -2235,6 +2554,7 @@
     {
         "id": "320",
         "image": "./Gallery_Images/IMG_3592.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3592_Placeholder.JPG",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2242,6 +2562,7 @@
     {
         "id": "321",
         "image": "./Gallery_Images/IMG_3593.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3593_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2249,6 +2570,7 @@
     {
         "id": "322",
         "image": "./Gallery_Images/IMG_3597.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3597_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2256,6 +2578,7 @@
     {
         "id": "323",
         "image": "./Gallery_Images/IMG_3598.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3598_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2263,6 +2586,7 @@
     {
         "id": "324",
         "image": "./Gallery_Images/IMG_3600.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3600_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2270,6 +2594,7 @@
     {
         "id": "325",
         "image": "./Gallery_Images/IMG_3604.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3604_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2277,6 +2602,7 @@
     {
         "id": "326",
         "image": "./Gallery_Images/IMG_3688.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3688_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2284,6 +2610,7 @@
     {
         "id": "327",
         "image": "./Gallery_Images/IMG_3689.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3689_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2291,6 +2618,7 @@
     {
         "id": "328",
         "image": "./Gallery_Images/IMG_3692.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3692_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2298,6 +2626,7 @@
     {
         "id": "329",
         "image": "./Gallery_Images/IMG_3699.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3699_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2305,6 +2634,7 @@
     {
         "id": "330",
         "image": "./Gallery_Images/IMG_3702.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3702_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2312,6 +2642,7 @@
     {
         "id": "331",
         "image": "./Gallery_Images/IMG_3703.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3703_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2319,6 +2650,7 @@
     {
         "id": "332",
         "image": "./Gallery_Images/IMG_3708.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3708_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2326,6 +2658,7 @@
     {
         "id": "333",
         "image": "./Gallery_Images/IMG_3711.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3711_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2333,6 +2666,7 @@
     {
         "id": "334",
         "image": "./Gallery_Images/IMG_3717.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3717_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2340,6 +2674,7 @@
     {
         "id": "335",
         "image": "./Gallery_Images/IMG_3721.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3721_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2347,6 +2682,7 @@
     {
         "id": "336",
         "image": "./Gallery_Images/IMG_3724.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3724_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2354,6 +2690,7 @@
     {
         "id": "337",
         "image": "./Gallery_Images/IMG_3730.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3730_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2361,6 +2698,7 @@
     {
         "id": "338",
         "image": "./Gallery_Images/IMG_3738.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3738_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2368,6 +2706,7 @@
     {
         "id": "339",
         "image": "./Gallery_Images/IMG_3741.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3741_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2375,6 +2714,7 @@
     {
         "id": "340",
         "image": "./Gallery_Images/IMG_3754.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3754_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2382,6 +2722,7 @@
     {
         "id": "341",
         "image": "./Gallery_Images/IMG_3756.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3756_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2389,6 +2730,7 @@
     {
         "id": "342",
         "image": "./Gallery_Images/IMG_3759.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3759_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2396,6 +2738,7 @@
     {
         "id": "343",
         "image": "./Gallery_Images/IMG_3772.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3772_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2403,6 +2746,7 @@
     {
         "id": "344",
         "image": "./Gallery_Images/IMG_3777.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3777_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2410,6 +2754,7 @@
     {
         "id": "345",
         "image": "./Gallery_Images/IMG_3781.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3781_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2417,6 +2762,7 @@
     {
         "id": "346",
         "image": "./Gallery_Images/IMG_3784.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3784_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2424,6 +2770,7 @@
     {
         "id": "347",
         "image": "./Gallery_Images/IMG_3785.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3785_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2431,6 +2778,7 @@
     {
         "id": "348",
         "image": "./Gallery_Images/IMG_3786.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_3786_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2438,6 +2786,7 @@
     {
         "id": "349",
         "image": "./Gallery_Images/IMG_5134.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5134_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2445,6 +2794,7 @@
     {
         "id": "350",
         "image": "./Gallery_Images/IMG_5136.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5136_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2452,6 +2802,7 @@
     {
         "id": "351",
         "image": "./Gallery_Images/IMG_5157.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5157_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2459,6 +2810,7 @@
     {
         "id": "352",
         "image": "./Gallery_Images/IMG_5159.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5159_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2466,6 +2818,7 @@
     {
         "id": "353",
         "image": "./Gallery_Images/IMG_5161.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5161_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2473,6 +2826,7 @@
     {
         "id": "354",
         "image": "./Gallery_Images/IMG_5166.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5166_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2480,6 +2834,7 @@
     {
         "id": "355",
         "image": "./Gallery_Images/IMG_5167.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5167_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2487,6 +2842,7 @@
     {
         "id": "356",
         "image": "./Gallery_Images/IMG_5171.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5171_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2494,6 +2850,7 @@
     {
         "id": "357",
         "image": "./Gallery_Images/IMG_5183.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5183_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2501,6 +2858,7 @@
     {
         "id": "358",
         "image": "./Gallery_Images/IMG_5184.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5184_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2508,6 +2866,7 @@
     {
         "id": "359",
         "image": "./Gallery_Images/IMG_5232.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5232_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2515,6 +2874,7 @@
     {
         "id": "360",
         "image": "./Gallery_Images/IMG_5237.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5237_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2522,6 +2882,7 @@
     {
         "id": "361",
         "image": "./Gallery_Images/IMG_5241.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5241_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2529,6 +2890,7 @@
     {
         "id": "362",
         "image": "./Gallery_Images/IMG_5243.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5243_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2536,6 +2898,7 @@
     {
         "id": "363",
         "image": "./Gallery_Images/IMG_5244.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5244_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2543,6 +2906,7 @@
     {
         "id": "364",
         "image": "./Gallery_Images/IMG_5256.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5256_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2550,6 +2914,7 @@
     {
         "id": "365",
         "image": "./Gallery_Images/IMG_5269.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5269_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2557,6 +2922,7 @@
     {
         "id": "366",
         "image": "./Gallery_Images/IMG_5279.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5279_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2564,6 +2930,7 @@
     {
         "id": "367",
         "image": "./Gallery_Images/IMG_5280.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5280_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2571,6 +2938,7 @@
     {
         "id": "368",
         "image": "./Gallery_Images/IMG_5286.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5286_Placeholder.JPG",
         "year": "2018",
         "month": "09",
         "day": "30"
@@ -2578,6 +2946,7 @@
     {
         "id": "369",
         "image": "./Gallery_Images/IMG_5287.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5287_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2585,6 +2954,7 @@
     {
         "id": "370",
         "image": "./Gallery_Images/IMG_5306.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5306_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2592,6 +2962,7 @@
     {
         "id": "371",
         "image": "./Gallery_Images/IMG_5313.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5313_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2599,6 +2970,7 @@
     {
         "id": "372",
         "image": "./Gallery_Images/IMG_5327.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5327_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2606,6 +2978,7 @@
     {
         "id": "373",
         "image": "./Gallery_Images/IMG_5345.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5345_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2613,6 +2986,7 @@
     {
         "id": "374",
         "image": "./Gallery_Images/IMG_5363.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5363_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2620,6 +2994,7 @@
     {
         "id": "375",
         "image": "./Gallery_Images/IMG_5365.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5365_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2627,6 +3002,7 @@
     {
         "id": "376",
         "image": "./Gallery_Images/IMG_5368.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5368_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2634,6 +3010,7 @@
     {
         "id": "377",
         "image": "./Gallery_Images/IMG_5376.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5376_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2641,6 +3018,7 @@
     {
         "id": "378",
         "image": "./Gallery_Images/IMG_5393.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5393_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2648,6 +3026,7 @@
     {
         "id": "379",
         "image": "./Gallery_Images/IMG_5410.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5410_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2655,6 +3034,7 @@
     {
         "id": "380",
         "image": "./Gallery_Images/IMG_5464.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5464_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2662,6 +3042,7 @@
     {
         "id": "381",
         "image": "./Gallery_Images/IMG_5476.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5476_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2669,6 +3050,7 @@
     {
         "id": "382",
         "image": "./Gallery_Images/IMG_5534.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5534_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -2676,6 +3058,7 @@
     {
         "id": "383",
         "image": "./Gallery_Images/IMG_5587.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5587_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2683,6 +3066,7 @@
     {
         "id": "384",
         "image": "./Gallery_Images/IMG_5588.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5588_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2690,6 +3074,7 @@
     {
         "id": "385",
         "image": "./Gallery_Images/IMG_5593.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5593_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2697,6 +3082,7 @@
     {
         "id": "386",
         "image": "./Gallery_Images/IMG_5596.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5596_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2704,6 +3090,7 @@
     {
         "id": "387",
         "image": "./Gallery_Images/IMG_5600.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5600_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2711,6 +3098,7 @@
     {
         "id": "388",
         "image": "./Gallery_Images/IMG_5601.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5601_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "28"
@@ -2718,6 +3106,7 @@
     {
         "id": "389",
         "image": "./Gallery_Images/IMG_5604.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5604_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "29"
@@ -2725,6 +3114,7 @@
     {
         "id": "390",
         "image": "./Gallery_Images/IMG_5617.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5617_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2732,6 +3122,7 @@
     {
         "id": "391",
         "image": "./Gallery_Images/IMG_5649.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5649_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2739,6 +3130,7 @@
     {
         "id": "392",
         "image": "./Gallery_Images/IMG_5738.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5738_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2746,6 +3138,7 @@
     {
         "id": "393",
         "image": "./Gallery_Images/IMG_5740.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5740_Placeholder.jpg",
         "year": "2022",
         "month": "02",
         "day": "27"
@@ -2753,6 +3146,7 @@
     {
         "id": "394",
         "image": "./Gallery_Images/IMG_5741.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_5741_Placeholder.jpg",
         "year": "2023",
         "month": "12",
         "day": "03"
@@ -2760,6 +3154,7 @@
     {
         "id": "395",
         "image": "./Gallery_Images/IMG_6007.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6007_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2767,6 +3162,7 @@
     {
         "id": "396",
         "image": "./Gallery_Images/IMG_6012.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6012_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2774,6 +3170,7 @@
     {
         "id": "397",
         "image": "./Gallery_Images/IMG_6018.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6018_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2781,6 +3178,7 @@
     {
         "id": "398",
         "image": "./Gallery_Images/IMG_6019.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6019_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -2788,6 +3186,7 @@
     {
         "id": "399",
         "image": "./Gallery_Images/IMG_6025.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6025_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2795,6 +3194,7 @@
     {
         "id": "400",
         "image": "./Gallery_Images/IMG_6026.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6026_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2802,6 +3202,7 @@
     {
         "id": "401",
         "image": "./Gallery_Images/IMG_6028.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6028_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2809,6 +3210,7 @@
     {
         "id": "402",
         "image": "./Gallery_Images/IMG_6034.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6034_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "13"
@@ -2816,6 +3218,7 @@
     {
         "id": "403",
         "image": "./Gallery_Images/IMG_6035.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6035_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2823,6 +3226,7 @@
     {
         "id": "404",
         "image": "./Gallery_Images/IMG_6036.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6036_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2830,6 +3234,7 @@
     {
         "id": "405",
         "image": "./Gallery_Images/IMG_6047.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6047_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2837,6 +3242,7 @@
     {
         "id": "406",
         "image": "./Gallery_Images/IMG_6072.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6072_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2844,6 +3250,7 @@
     {
         "id": "407",
         "image": "./Gallery_Images/IMG_6076.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6076_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2851,6 +3258,7 @@
     {
         "id": "408",
         "image": "./Gallery_Images/IMG_6079.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6079_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2858,6 +3266,7 @@
     {
         "id": "409",
         "image": "./Gallery_Images/IMG_6080.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6080_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -2865,6 +3274,7 @@
     {
         "id": "410",
         "image": "./Gallery_Images/IMG_6261.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6261_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "15"
@@ -2872,6 +3282,7 @@
     {
         "id": "411",
         "image": "./Gallery_Images/IMG_6291.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6291_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "19"
@@ -2879,6 +3290,7 @@
     {
         "id": "412",
         "image": "./Gallery_Images/IMG_6304.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6304_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "20"
@@ -2886,6 +3298,7 @@
     {
         "id": "413",
         "image": "./Gallery_Images/IMG_6305.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6305_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "20"
@@ -2893,6 +3306,7 @@
     {
         "id": "414",
         "image": "./Gallery_Images/IMG_6486.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6486_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "31"
@@ -2900,6 +3314,7 @@
     {
         "id": "415",
         "image": "./Gallery_Images/IMG_6489.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6489_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "31"
@@ -2907,6 +3322,7 @@
     {
         "id": "416",
         "image": "./Gallery_Images/IMG_6491.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6491_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "31"
@@ -2914,6 +3330,7 @@
     {
         "id": "417",
         "image": "./Gallery_Images/IMG_6494.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6494_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "31"
@@ -2921,6 +3338,7 @@
     {
         "id": "418",
         "image": "./Gallery_Images/IMG_6693.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6693_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -2928,6 +3346,7 @@
     {
         "id": "419",
         "image": "./Gallery_Images/IMG_6790.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6790_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "19"
@@ -2935,6 +3354,7 @@
     {
         "id": "420",
         "image": "./Gallery_Images/IMG_6795.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6795_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "19"
@@ -2942,6 +3362,7 @@
     {
         "id": "421",
         "image": "./Gallery_Images/IMG_6806.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_6806_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "19"
@@ -2949,6 +3370,7 @@
     {
         "id": "422",
         "image": "./Gallery_Images/IMG_8603.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8603_Placeholder.jpg",
         "year": "2022",
         "month": "10",
         "day": "23"
@@ -2956,6 +3378,7 @@
     {
         "id": "423",
         "image": "./Gallery_Images/IMG_8790.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8790_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "04"
@@ -2963,6 +3386,7 @@
     {
         "id": "424",
         "image": "./Gallery_Images/IMG_8793.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8793_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "04"
@@ -2970,6 +3394,7 @@
     {
         "id": "425",
         "image": "./Gallery_Images/IMG_8794.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8794_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "04"
@@ -2977,6 +3402,7 @@
     {
         "id": "426",
         "image": "./Gallery_Images/IMG_8798.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8798_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "05"
@@ -2984,6 +3410,7 @@
     {
         "id": "427",
         "image": "./Gallery_Images/IMG_8929.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8929_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -2991,6 +3418,7 @@
     {
         "id": "428",
         "image": "./Gallery_Images/IMG_8932.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8932_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -2998,6 +3426,7 @@
     {
         "id": "429",
         "image": "./Gallery_Images/IMG_8933.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8933_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "16"
@@ -3005,6 +3434,7 @@
     {
         "id": "430",
         "image": "./Gallery_Images/IMG_8955.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8955_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3012,6 +3442,7 @@
     {
         "id": "431",
         "image": "./Gallery_Images/IMG_8966.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8966_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3019,6 +3450,7 @@
     {
         "id": "432",
         "image": "./Gallery_Images/IMG_8973.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8973_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3026,6 +3458,7 @@
     {
         "id": "433",
         "image": "./Gallery_Images/IMG_8986.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_8986_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3033,6 +3466,7 @@
     {
         "id": "434",
         "image": "./Gallery_Images/IMG_9003.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9003_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3040,6 +3474,7 @@
     {
         "id": "435",
         "image": "./Gallery_Images/IMG_9008.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9008_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "22"
@@ -3047,6 +3482,7 @@
     {
         "id": "436",
         "image": "./Gallery_Images/IMG_9010.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9010_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "31"
@@ -3054,6 +3490,7 @@
     {
         "id": "437",
         "image": "./Gallery_Images/IMG_9015.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9015_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "23"
@@ -3061,6 +3498,7 @@
     {
         "id": "438",
         "image": "./Gallery_Images/IMG_9019.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9019_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "23"
@@ -3068,6 +3506,7 @@
     {
         "id": "439",
         "image": "./Gallery_Images/IMG_9032.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9032_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "23"
@@ -3075,6 +3514,7 @@
     {
         "id": "440",
         "image": "./Gallery_Images/IMG_9035.jpeg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9035_Placeholder.jpeg",
         "year": "2018",
         "month": "09",
         "day": "23"
@@ -3082,6 +3522,7 @@
     {
         "id": "441",
         "image": "./Gallery_Images/IMG_9042.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9042_Placeholder.jpg",
         "year": "2023",
         "month": "10",
         "day": "05"
@@ -3089,6 +3530,7 @@
     {
         "id": "442",
         "image": "./Gallery_Images/IMG_9366.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/IMG_9366_Placeholder.jpg",
         "year": "2023",
         "month": "11",
         "day": "15"
@@ -3096,6 +3538,7 @@
     {
         "id": "443",
         "image": "./Gallery_Images/Installing_Ecan.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Installing_Ecan_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -3103,6 +3546,7 @@
     {
         "id": "444",
         "image": "./Gallery_Images/Kraken_Under_Tent.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Kraken_Under_Tent_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -3110,6 +3554,7 @@
     {
         "id": "445",
         "image": "./Gallery_Images/MVIMG_20190504_112230.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190504_112230_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -3117,6 +3562,7 @@
     {
         "id": "446",
         "image": "./Gallery_Images/MVIMG_20190504_114200.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190504_114200_Placeholder.jpg",
         "year": "2019",
         "month": "05",
         "day": "04"
@@ -3124,6 +3570,7 @@
     {
         "id": "447",
         "image": "./Gallery_Images/MVIMG_20190624_075228.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190624_075228_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -3131,6 +3578,7 @@
     {
         "id": "448",
         "image": "./Gallery_Images/MVIMG_20190624_081706.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190624_081706_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -3138,6 +3586,7 @@
     {
         "id": "449",
         "image": "./Gallery_Images/MVIMG_20190624_081718.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190624_081718_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "24"
@@ -3145,6 +3594,7 @@
     {
         "id": "450",
         "image": "./Gallery_Images/MVIMG_20190627_132302.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190627_132302_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "27"
@@ -3152,6 +3602,7 @@
     {
         "id": "451",
         "image": "./Gallery_Images/MVIMG_20190627_135806.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/MVIMG_20190627_135806_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "27"
@@ -3159,6 +3610,7 @@
     {
         "id": "452",
         "image": "./Gallery_Images/Nautalis_Under_Tent.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Nautalis_Under_Tent_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "26"
@@ -3166,6 +3618,7 @@
     {
         "id": "453",
         "image": "./Gallery_Images/Nautalis_With_VT_Flag.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Nautalis_With_VT_Flag_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "27"
@@ -3173,6 +3626,7 @@
     {
         "id": "454",
         "image": "./Gallery_Images/PB100015 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100015 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3180,6 +3634,7 @@
     {
         "id": "455",
         "image": "./Gallery_Images/PB100019 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100019 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3187,6 +3642,7 @@
     {
         "id": "456",
         "image": "./Gallery_Images/PB100045 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100045 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3194,6 +3650,7 @@
     {
         "id": "457",
         "image": "./Gallery_Images/PB100059 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100059 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3201,6 +3658,7 @@
     {
         "id": "458",
         "image": "./Gallery_Images/PB100110 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100110 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3208,6 +3666,7 @@
     {
         "id": "459",
         "image": "./Gallery_Images/PB100114 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100114 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3215,6 +3674,7 @@
     {
         "id": "460",
         "image": "./Gallery_Images/PB100125 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100125 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3222,6 +3682,7 @@
     {
         "id": "461",
         "image": "./Gallery_Images/PB100212 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100212 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3229,6 +3690,7 @@
     {
         "id": "462",
         "image": "./Gallery_Images/PB100237 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100237 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3236,6 +3698,7 @@
     {
         "id": "463",
         "image": "./Gallery_Images/PB100362 - Copy.JPG",
+        "placeholder": "./Gallery_Images_Placeholders/PB100362 - Copy_Placeholder.JPG",
         "year": "2018",
         "month": "11",
         "day": "10"
@@ -3243,6 +3706,7 @@
     {
         "id": "464",
         "image": "./Gallery_Images/PXL_20200926_180620302.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20200926_180620302_Placeholder.jpg",
         "year": "2020",
         "month": "09",
         "day": "26"
@@ -3250,6 +3714,7 @@
     {
         "id": "465",
         "image": "./Gallery_Images/PXL_20200926_180710312.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20200926_180710312_Placeholder.jpg",
         "year": "2020",
         "month": "09",
         "day": "26"
@@ -3257,6 +3722,7 @@
     {
         "id": "466",
         "image": "./Gallery_Images/PXL_20201003_185142793.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_185142793_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3264,6 +3730,7 @@
     {
         "id": "467",
         "image": "./Gallery_Images/PXL_20201003_185143992.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_185143992_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3271,6 +3738,7 @@
     {
         "id": "468",
         "image": "./Gallery_Images/PXL_20201003_185647854.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_185647854_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3278,6 +3746,7 @@
     {
         "id": "469",
         "image": "./Gallery_Images/PXL_20201003_191039715.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_191039715_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3285,6 +3754,7 @@
     {
         "id": "470",
         "image": "./Gallery_Images/PXL_20201003_192616140.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_192616140_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3292,6 +3762,7 @@
     {
         "id": "471",
         "image": "./Gallery_Images/PXL_20201003_195959702.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201003_195959702_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "03"
@@ -3299,6 +3770,7 @@
     {
         "id": "472",
         "image": "./Gallery_Images/PXL_20201004_213716822.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20201004_213716822_Placeholder.jpg",
         "year": "2020",
         "month": "10",
         "day": "04"
@@ -3306,6 +3778,7 @@
     {
         "id": "473",
         "image": "./Gallery_Images/PXL_20210220_011112563.MP.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210220_011112563.MP_Placeholder.jpg",
         "year": "2021",
         "month": "02",
         "day": "19"
@@ -3313,6 +3786,7 @@
     {
         "id": "474",
         "image": "./Gallery_Images/PXL_20210220_014019704.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210220_014019704_Placeholder.jpg",
         "year": "2021",
         "month": "02",
         "day": "19"
@@ -3320,6 +3794,7 @@
     {
         "id": "475",
         "image": "./Gallery_Images/PXL_20210220_184357043.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210220_184357043_Placeholder.jpg",
         "year": "2021",
         "month": "02",
         "day": "20"
@@ -3327,6 +3802,7 @@
     {
         "id": "476",
         "image": "./Gallery_Images/PXL_20210501_024839873.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210501_024839873_Placeholder.jpg",
         "year": "2021",
         "month": "04",
         "day": "30"
@@ -3334,6 +3810,7 @@
     {
         "id": "477",
         "image": "./Gallery_Images/PXL_20210501_105906364.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210501_105906364_Placeholder.jpg",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -3341,6 +3818,7 @@
     {
         "id": "478",
         "image": "./Gallery_Images/PXL_20210501_150426805.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210501_150426805_Placeholder.jpg",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -3348,6 +3826,7 @@
     {
         "id": "479",
         "image": "./Gallery_Images/PXL_20210501_150429083.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/PXL_20210501_150429083_Placeholder.jpg",
         "year": "2021",
         "month": "05",
         "day": "01"
@@ -3355,6 +3834,7 @@
     {
         "id": "480",
         "image": "./Gallery_Images/Sub_Ballisting.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Sub_Ballisting_Placeholder.jpg",
         "year": "2023",
         "month": "06",
         "day": "30"
@@ -3362,6 +3842,7 @@
     {
         "id": "481",
         "image": "./Gallery_Images/Virginia-Tech_PHANTOM-8-1024x768.jpg",
+        "placeholder": "./Gallery_Images_Placeholders/Virginia-Tech_PHANTOM-8-1024x768_Placeholder.jpg",
         "year": "2019",
         "month": "06",
         "day": "25"

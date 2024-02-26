@@ -10,7 +10,7 @@ import 'react-lazy-load-image-component/src/effects/blur.css';
 function GalleryCard(props) {
     return (
         <div className="gallerycard_container">
-            <LazyLoadImage src={props.image} alt="Gallery" className="gallerycard_image" effect="blur" scrollPosition={props.position}/>
+            <LazyLoadImage src={props.image} alt="Gallery" className="gallerycard_image" placeholderSrc={props.placeholder} scrollPosition={props.position}/>
             <div className="gallerycard_caption_container">
                 <p className="gallerycard_description">{props.year}</p>
             </div>
