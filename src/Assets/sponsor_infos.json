@@ -64,5 +64,17 @@
     "image": "./Sponsor_Logos/CollisonPlus.jpg",
     "title": "Collison Plus",
     "link": "https://www.collisionplusva.com/"
+  },
+  {
+    "id": 12,
+    "image": "./Sponsor_Logos/FincantieriMarine.jpg",
+    "title": "Fincantieri Marine Group",
+    "link": "https://fincantierimarinegroup.com/"
+  },
+  {
+    "id": 13,
+    "image": "./Sponsor_Logos/Sherwood_Scuba.jpg",
+    "title": "Sherwood Scuba",
+    "link": "https://www.sherwoodscuba.com/"
   }
 ]
