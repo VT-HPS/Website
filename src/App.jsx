@@ -10,6 +10,7 @@ import Gallery from './Pages/Gallery.jsx'
 import Team from './Pages/Team.jsx';
 import NotFound from './Pages/NotFound.jsx';
 import SponsorRegistration from './Pages/SponsorsRegistration.jsx';
+import SeniorDesign from './Pages/SeniorDesign.jsx';
 import Topbar from './Components/Topbar/Topbar.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PageFooter from './Components/FooterCard/FooterCard.jsx';
@@ -32,6 +33,7 @@ const App = () => {
           <Route path="/team" element={<Team/>} />
           <Route path="/gallery" element={<Gallery/>} />
           <Route path="/become_a_sponsor" element={<SponsorRegistration/>} />
+          <Route path="/senior_design" element={<SeniorDesign/>} />
           <Route path="/*" element={<NotFound />}/>
         </Routes>
         <PageFooter />

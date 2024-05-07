@@ -17,6 +17,7 @@ const Topbar = ({children}) => {
         { path: '/sponsors', name: 'Sponsors'},
         { path: '/membership', name: 'Membership'},
         { path: '/gallery', name: 'Gallery'},
+        { path: '/senior_design', name: 'Senior Design'},
         { path: '/faq', name: 'FAQ'}
     ];
 

@@ -1,0 +1,32 @@
+.gallerycard_container {
+  outline-style: blank;
+  border-radius: 20px;
+  padding: 15px 15px 15px 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.gallerycard_image {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+}
+
+.gallerycard_caption_container {
+  /* width: 33%;   */
+  padding: 15px;
+  text-align: center;
+}
+
+.gallerycard_title {
+  font-size: 1.2em;
+  margin: 10px 0;
+}
+
+.gallerycard_description {
+  font-size: 1em;
+  margin: 0;
+}
