@@ -21,9 +21,10 @@ const PageFooter = () => {
                     />
                     <nav className="footer-links">
                         <a href="/">About</a>
+                        <a href="/membership">Contact</a>
                         <a href="/history">History</a>
                         <a href="/sponsors">Sponsorship</a>
-                        <a href="/membership">Contact</a>
+                        <a href="https://vt-hps.github.io/">Wiki</a>
                     </nav>
                 </div>
                 <div className="footer-line-container">
