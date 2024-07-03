@@ -7,7 +7,7 @@ const FAQ = () => {
             {
                 title: "What is Human Powered Submarine (HPS)?",
                 content: `Human Powered Submarine is a design team competition that challenges participants to build a manned submarine that is fully flooded that can 
-                nagivate a basin for 100 meters while being fully powered by a human inside of the rigid sub body.`,
+                navigate a basin for 100 meters while being fully powered by a human inside of the rigid sub body.`,
             },
             {
                 title: "Is the submarine pressurized? How deep can it go?",
