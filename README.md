@@ -28,4 +28,55 @@ Copy the entire build folder to the gitlab
 
 Commit the changes and push to gitlab
 
+## Sections to add
 
+- Setup
+  - Adding new users as developers to HPS deploy site
+  - Adding users to Github
+  - Cloning and setting up both repos
+  - Building dev repo (Include necessary file changes to create 404 and other pages)
+  - Moving dev repo build to main repo and deploying
+- Development
+  - Setting up test website from dev repo
+  - Link to common github tips
+  - Update packages
+  - Starter development and learning react
+- Specific Website Sections
+  - Home page
+    - Rotating_Images.json
+  - Gallery
+    - How to add Photos
+      - Gallery Images folder
+      - Gallery images Placeholder folder
+    - Best way to shrink file size (Include app "File Optimizer")
+    - Gallery.json
+  - Team Page (Leadership)
+    - MembershipInfo.json
+    - Team Leadership images folder
+  - Sponsorship Page
+    - Sponsor_infos.json
+    - Sponsor Logos folder
+    - Sponsorship registration page
+  - History
+    - History.json
+    - Sub images folder
+  - Senior Design
+    - Senior Design.json
+    - Photos
+      - Senior Design Gallery folder
+      - Senior Design Photo folder
+  - Membership
+    - Membership email form
+    - Different links for signup
+  - FAQ
+    - How to add and change FAQ in FAQ Page
+- Website Setup
+  - Structure with public folder and src
+  - 404 page (not found)
+  - Redirection
+  - Email Setup
+    - Emailjs
+    - Account Info (Kept in sharepoint)
+  - Topbar
+  - Footer
+  - CSS
