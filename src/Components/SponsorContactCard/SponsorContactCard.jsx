@@ -19,10 +19,9 @@ import './SponsorContactCard.css';
  * and submitted = false
  */
 const SponsorContactCard = () => {
-    // This needs to be updated to noreplyvthps@gmail.com's account
-    const sponsorEmailService = "hps_sponsor_service"
+    const sponsorEmailService = "hps_contact_id"
     const sponsorEmailTemplate = "hps_sponsor_form"
-    const sponsorEmailPubKey = "A-bfzMnIjPCSesPQ8"
+    const sponsorEmailPubKey = "BKr6VZpPHUkW8CVAZ"
 
 
     const [contactInfo, setContactInfo] = useState({

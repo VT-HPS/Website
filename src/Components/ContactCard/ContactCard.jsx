@@ -19,10 +19,9 @@ import './ContactCard.css';
  * and submitted = false
  */
 const ContactCard = () => {
-    // This needs to be updated to noreplyvthps@gmail.com's account
-    const membershipEmailService = "hps_contact_service"
+    const membershipEmailService = "hps_contact_id"
     const membershipEmailTemplate = "hps_contact_form"
-    const membershipEmailPubKey = "A-bfzMnIjPCSesPQ8"
+    const membershipEmailPubKey = "BKr6VZpPHUkW8CVAZ"
 
 
     const [contactInfo, setContactInfo] = useState({
@@ -38,6 +37,7 @@ const ContactCard = () => {
 
     const form = useRef();
     const captchaRef = useRef();
+    let currYear = new Date().getFullYear();
 
     /**
      * When the contact card fields are typed into / changed, the 
@@ -159,11 +159,11 @@ const ContactCard = () => {
                                     required //field is required
                                 >
                                     <option value="">Select Year</option>
-                                    <option value="2024">2024</option>
-                                    <option value="2025">2025</option>
-                                    <option value="2026">2026</option>
-                                    <option value="2027">2027</option>
-                                    <option value="2028">2028</option>
+                                    <option value={currYear}>{currYear}</option>
+                                    <option value={currYear + 1}>{currYear + 1}</option>
+                                    <option value={currYear + 2}>{currYear + 2}</option>
+                                    <option value={currYear + 3}>{currYear + 3}</option>
+                                    <option value={currYear + 4}>{currYear + 4}</option>
                                 </select>
                             </Col>
                             <Col> <h6>Major</h6>
