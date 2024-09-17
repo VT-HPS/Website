@@ -1,78 +1,70 @@
 [
     {
         "id": 1,
-        "image": "./Team_Leadership_Images/ArmisteadMaryClaire.jpg",
-        "name": "Mary Claire Armistead",
+        "image": "./Team_Leadership_Images/KeenanBen.jpg",
+        "name": "Ben Keenan",
         "position": "Head of Design",
         "year": "Senior",
         "office": "Officer"
     },
     {
         "id": 2,
-        "image": "./Team_Leadership_Images/KoniersBen.jpg",
-        "name": "Ben Koniers",
+        "image": "./Team_Leadership_Images/LahrimKarim.jpg",
+        "name": "Karim Lahrim",
         "position": "Controls Lead Engineer",
         "year": "Senior",
         "office": "LE"
     },
     {
         "id": 3,
-        "image": "./Team_Leadership_Images/WottowaMax.jpg",
-        "name": "Max Wottowa",
+        "image": "./Team_Leadership_Images/JohnstonCara.jpg",
+        "name": "Cara Johnston",
         "position": "President",
         "year": "Senior",
         "office": "Officer"
     },
     {
         "id": 4,
-        "image": "./Team_Leadership_Images/GrahamSyenna.jpg",
-        "name": "Syenna Graham",
+        "image": "./Team_Leadership_Images/QuiramNicole.jpg",
+        "name": "Nicole Quiram",
         "position": "Vice President",
-        "year": "Senior",
-        "office": "Officer"
-    },
-    {
-        "id": 5,
-        "image": "./Team_Leadership_Images/HyltonLuke.jpg",
-        "name": "Luke Hylton",
-        "position": "Electronics Lead Engineer",
-        "year": "Senior",
-        "office": "LE"
-    },
-    {
-        "id": 6,
-        "image": "./Team_Leadership_Images/JohnstonCara.jpg",
-        "name": "Cara Johnston",
-        "position": "Event Coordinator",
         "year": "Junior",
         "office": "Officer"
     },
     {
+        "id": 5,
+        "image": "./Team_Leadership_Images/AradheyNiranjan.jpg",
+        "name": "Niranjan Aradhey",
+        "position": "Electronics Lead Engineer",
+        "year": "Sophomore",
+        "office": "LE"
+    },
+    {
+        "id": 6,
+        "image": "./Team_Leadership_Images/TomerBryan.jpg",
+        "name": "Bryan Tomer",
+        "position": "Event Coordinator",
+        "year": "Sophomore",
+        "office": "Officer"
+    },
+    {
         "id": 7,
-        "image": "./Team_Leadership_Images/KeenanBen.jpg",
-        "name": "Ben Keenan",
+        "image": "./Team_Leadership_Images/GiglioCharlie.jpg",
+        "name": "Charlie Giglio",
         "position": "Structures Lead Engineer",
         "year": "Junior",
         "office": "LE"
     },
     {
         "id": 8,
-        "image": "./Team_Leadership_Images/DunnMike.jpg",
-        "name": "Mike Dunn",
-        "position": "Hydro Co-Lead Engineer",
-        "year": "Senior",
-        "office": "LE"
-    },
-    {
-        "id": 9,
-        "image": "./Team_Leadership_Images/QuiramNicole.jpg",
-        "name": "Nicole Quiram",
+        "image": "./Team_Leadership_Images/WoodsAshley.jpg",
+        "name": "Ashley Woods",
         "position": "Sponsor Relations",
-        "year": "Sophomore",
+        "year": "Junior",
         "office": "Officer"
     },
     {
-        "id": 10,
+        "id": 9,
         "image": "./Team_Leadership_Images/Salazar-JaraDiego.jpg",
         "name": "Diego Salazar-Jara",
         "position": "Treasurer",
@@ -80,11 +72,11 @@
         "office": "Officer"
     },
     {
-        "id": 11,
-        "image": "./Team_Leadership_Images/WilckenConnor.jpg",
-        "name": "Connor Wilcken",
-        "position": "Hydro Co-Lead Engineer",
-        "year": "Senior",
+        "id": 10,
+        "image": "./Team_Leadership_Images/CampbellMaggie.jpg",
+        "name": "Maggie Campbell",
+        "position": "Hydro Lead Engineer",
+        "year": "Junior",
         "office": "LE"
     }
 ]

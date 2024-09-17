@@ -9,14 +9,14 @@
   overflow: hidden;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
   width: 400px;
-  height: 500px;
+  height: 675px;
   margin: 20px;
 }
 
 .teamcard_image {
   width: 100%;
   height: auto;
-  border-radius: 10px;
+  border-radius: 20px;
   object-fit: contain; /* This will ensure the image maintains its aspect ratio */
   object-position: center; /* This will center the image in the container */
 }
