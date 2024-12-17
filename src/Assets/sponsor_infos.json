@@ -76,5 +76,11 @@
     "image": "./Sponsor_Logos/Sherwood_Scuba.jpg",
     "title": "Sherwood Scuba",
     "link": "https://www.sherwoodscuba.com/"
+  },
+  {
+    "id": 14,
+    "image": "./Sponsor_Logos/EngineeredComponents.jpg",
+    "title": "Engineered Components Inc",
+    "link": "https://www.engrcomp.com/"
   }
 ]
