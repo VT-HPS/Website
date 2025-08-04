@@ -53,15 +53,8 @@ const SeniorDesign = ({ scrollPosition }) => {
             <h1 className="page_title">Senior Design</h1>
 
             <Stack gap={2} >
-                <h4 className="sponsor_reg_centered_text">The HPS senior design team is a subset of the HPS club team, 
-                that acts as one of 5 subteams. The team operates under the Interdisciplinary Capstone program, which 
-                means many majors participate in a year-long project determined by the team. This year, there was a need 
-                for a drivetrain and controls system, so the senior design team took on these projects to attempt to meet 
-                HPS team goals that have never been possible in the past.</h4><br/>
-                <h4 className="sponsor_reg_centered_text">With these projects, the club team has never been able to have 
-                a variable gearing drivetrain or a working autonomous controls system. So over the 2023-2024 academic year, 
-                the senior design team worked to design, prototype, test, redesign, build, and test these systems to give a 
-                baseline design for the following year’s team.</h4><br/>
+                <h4 className="sponsor_reg_centered_text">The HPS senior design team is a subset of the HPS club team, that operates alongside the other subteams. This team is apart of the Interdisciplinary Capstone program, a year-long design course where students of different majors come together to tackle design challenges. In previous years the senior design teams have aimed to design variable drivetrain systems, reliable propulsion, and autonomous controls.</h4><br/>
+                <h4 className="sponsor_reg_centered_text">The addition of this team in the 2023-2024 academic year has allowed the team to generate new and innovative systems leading to sucess at the International Submarine Races. The senior design team continues to innovate following a comprehensive design process with advising from Virginia Tech faculty and looks forward to continuing to help the team improve.</h4><br/>
             </Stack>
 
 
