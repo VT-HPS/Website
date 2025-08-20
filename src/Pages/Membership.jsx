@@ -3,7 +3,7 @@ import ContactCard from "../Components/ContactCard/ContactCard";
 import Stack from 'react-bootstrap/Stack';
 
 /**
- * Creates the membershiop page which asks the user to fill out a form if they are interested
+ * Creates the membership page which asks the user to fill out a form if they are interested
  * in joining the team. The form is created using the ContactCard Component.
  */
 const Membership = () => {
