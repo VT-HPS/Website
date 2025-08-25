@@ -64,6 +64,27 @@ const Team = ({ scrollPosition }) => {
                         );
                     }
                 })}
+                
+            </div>
+            <h1 className="page_title">Non-Commissioned Officers</h1>
+            <div className="team_grid">
+                {/* eslint-disable-next-line*/}
+                {teamList.map((team) => {
+                    if (team.office === "NCO") {
+                        return (
+                            <div key={team.id}>
+                                <TeamCard
+                                    id={team.id}
+                                    name={team.name}
+                                    image={team.image}
+                                    position={team.position}
+                                    year={team.year}
+                                />
+                            </div>
+                        );
+                    }
+                })}
+                
             </div>
         </div>
     )
