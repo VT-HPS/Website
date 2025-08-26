@@ -320,6 +320,29 @@ html {
   border-radius: 50px;
 }
 
+/* events-box and events-list are associated 
+with 'events-box on the Home.jsx file. CSS style 
+to correctly display the text on the home page.' 
+*/
+
+.events-box{
+  border-radius: 15px;
+  margin: 50px 50px;
+  padding: 25px 25px;
+  background-color: var(--vt-hokieStone);
+  width: 60%;
+  text-align: center;
+  list-style-position: inside;
+  padding-left: 0;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.events-list li {
+  font-size: 1.1em;
+  color: var(--vt-white);
+}
+
+
 .home-image-half {
   border-radius: 10px;
   object-fit: contain;

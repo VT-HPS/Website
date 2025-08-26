@@ -14,6 +14,26 @@ const Home = () => {
                 <img className="home-top-image" src={exlienniCompPic} alt="home"></img>
                 <h1 className="home-top-text">We are the Human Powered Submarine Team at Virginia Tech</h1>
             </div>
+
+{/* 
+Added for the info sessions that the team will have. Should be removed of commented out after the sessions are over.
+*/}
+            <div className="events-box">
+                <h2 className="events-title">Upcoming Team Information Sessions</h2>
+                <ul className="events-list">
+                    <li>
+                        <strong>9/3/25 at 7pm</strong> - Location: TBD
+                    </li>
+                    <li>
+                        <strong>9/7/25 at 7pm</strong> - Location: Virtual
+                    </li>
+                    <li>
+                        <strong>9/8/25 at 6pm</strong> - Location: TBD
+                    </li>
+                </ul>
+
+            </div>
+
             <div className="home-image-info-container">
                 <img className="home-image-half" src={exlienniPoolTestingPic} alt="home"></img>
                 <div className="home-info-half-container">
