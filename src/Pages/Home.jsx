@@ -15,9 +15,11 @@ const Home = () => {
                 <h1 className="home-top-text">We are the Human Powered Submarine Team at Virginia Tech</h1>
             </div>
 
+
 {/* 
-Added for the info sessions that the team will have. Should be removed of commented out after the sessions are over.
+Added for the info sessions that the team will have. Should be removed or commented out after the sessions are over.
 */}
+{/* 
             <div className="events-box">
                 <h2 className="events-title">Upcoming Team Information Sessions</h2>
                 <ul className="events-list">
@@ -33,7 +35,7 @@ Added for the info sessions that the team will have. Should be removed of commen
                 </ul>
 
             </div>
-
+ */}
             <div className="home-image-info-container">
                 <img className="home-image-half" src={exlienniPoolTestingPic} alt="home"></img>
                 <div className="home-info-half-container">

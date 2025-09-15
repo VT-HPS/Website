@@ -12,10 +12,10 @@ import "./Topbar.css";
 
 const Topbar = ({children}) => {
     const menuItem = [
-        { path: '/membership', name: 'Apply'},
         { path: '/team', name: 'Team'},
         { path: '/history', name: 'History'},
         { path: '/sponsors', name: 'Sponsors'},
+        { path: '/membership', name: 'Membership'},
         { path: '/gallery', name: 'Gallery'},
         { path: '/senior_design', name: 'Senior Design'},
         { path: '/faq', name: 'FAQ'}

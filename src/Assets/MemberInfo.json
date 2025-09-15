@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "image": "./Team_Leadership_Images/GiglioCharlie.jpg",
+        "image": "./Team_Leadership_Images/GiglioCharlie.JPEG",
         "name": "Charlie Giglio",
         "position": "Head of Design",
         "year": "Senior",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "image": "./Team_Leadership_Images/WoodsAshley.jpg",
+        "image": "./Team_Leadership_Images/WoodsAshley.JPEG",
         "name": "Ashley Woods",
         "position": "Controls Lead Engineer",
         "year": "Senior",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "image": "./Team_Leadership_Images/QuiramNicole.jpg",
+        "image": "./Team_Leadership_Images/QuiramNicole.JPEG",
         "name": "Nicole Quiram",
         "position": "President",
         "year": "Senior",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "image": "./Team_Leadership_Images/CampbellMaggie.jpg",
+        "image": "./Team_Leadership_Images/CampbellMaggie.JPEG",
         "name": "Maggie Campbell",
         "position": "Vice President",
         "year": "Senior",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/RutkauskasAndrew.JPEG",
         "name": "Andrew Rutkauskas",
         "position": "Electronics Lead Engineer",
         "year": "Junior",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/DunbarWyatt.JPEG",
         "name": "Wyatt Dunbar",
         "position": "Treasurer",
         "year": "Junior",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/DennyVivian.JPEG",
         "name": "Vivian Denny",
         "position": "Structures Lead Engineer",
         "year": "Senior",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/ThorneburgWyatt.JPEG",
         "name": "Wyatt Throneburg",
         "position": "Sponsor Relations",
         "year": "Sophomore",
@@ -65,7 +65,7 @@
     },
     {
         "id": 6,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/OttingerNoah.JPEG",
         "name": "Noah Ottinger",
         "position": "Event Coordinator",
         "year": "Sophomore",
@@ -74,7 +74,7 @@
     ,
     {
         "id": 10,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/JohnJeremy.JPEG",
         "name": "Jeremy John",
         "position": "Hydro Lead Engineer",
         "year": "Senior",
@@ -82,7 +82,7 @@
     },
     {
         "id": 11,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/DunbarWyatt.JPEG",
         "name": "Wyatt Dunbar",
         "position": "Webmaster",
         "year": "Junior",
@@ -90,7 +90,7 @@
     },
     {
         "id": 12,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/RomleyHayes.JPEG",
         "name": "Hayes Romley",
         "position": "Quartermaster",
         "year": "Junior",
@@ -98,10 +98,18 @@
     },
     {
         "id": 11,
-        "image": "./Team_Leadership_Images/hps_logo1.png",
+        "image": "./Team_Leadership_Images/GabrielChaim.JPEG",
         "name": "Dive Master",
         "position": "Chaim Gabriel",
         "year": "Sophomore",
+        "office": "NCO"
+    },
+    {
+        "id": 12,
+        "image": "./Team_Leadership_Images/ShackelfordJaden.JPEG",
+        "name": "Media Relations",
+        "position": "Jaden Shackelford",
+        "year": "Senior",
         "office": "NCO"
     }
 ]
